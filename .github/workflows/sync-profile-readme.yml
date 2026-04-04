@@ -1,0 +1,37 @@
+name: Sync Organization Profile README
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 */4 * * *'
+  push:
+    paths:
+      - 'data/members.json'
+      - 'data/projects.json'
+      - 'generate_readme.py'
+      - '.github/workflows/sync-profile-readme.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  sync-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Regenerate profile README
+        run: python generate_readme.py
+
+      - name: Commit updated README if needed
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'chore: sync organization profile README'
+          file_pattern: profile/README.md
