@@ -1,0 +1,49 @@
+name: Project Proposal
+description: Propose a new student project, subject repository, or experiment for the organization.
+title: "[Proposal]: "
+labels:
+  - proposal
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this template to propose a new project or repository idea for CODE CREW NEXUS.
+  - type: input
+    id: project_title
+    attributes:
+      label: Project Title
+      description: What is the name of the proposed project?
+    validations:
+      required: true
+  - type: input
+    id: subject_area
+    attributes:
+      label: Subject Area
+      description: Which subject or domain does it belong to?
+      placeholder: Example: DAA, DBMS, OOPs, AI/ML
+    validations:
+      required: true
+  - type: textarea
+    id: purpose
+    attributes:
+      label: Purpose
+      description: What problem, topic, or goal does the project address?
+    validations:
+      required: true
+  - type: textarea
+    id: scope
+    attributes:
+      label: Expected Scope
+      description: Describe the likely scope, modules, or deliverables.
+    validations:
+      required: true
+  - type: textarea
+    id: tools
+    attributes:
+      label: Tools or Languages
+      description: Mention the expected tools, languages, or frameworks.
+  - type: textarea
+    id: documentation
+    attributes:
+      label: Documentation Expectations
+      description: Mention reports, diagrams, datasets, screenshots, or other planned documentation.

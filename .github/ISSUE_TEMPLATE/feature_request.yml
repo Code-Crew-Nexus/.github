@@ -1,0 +1,45 @@
+name: Feature Request
+description: Suggest a new feature, improvement, or enhancement for a repository.
+title: "[Feature]: "
+labels:
+  - enhancement
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for suggesting an improvement.
+
+        Please keep the request practical, clearly scoped, and aligned with the repository or project goal.
+  - type: input
+    id: repository_name
+    attributes:
+      label: Repository
+      description: Which repository should this feature belong to?
+      placeholder: Example: AI-ML-Project or DBMS-Toolkit
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem or Need
+      description: What problem does this feature solve?
+      placeholder: Explain the gap or need.
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed Solution
+      description: What would you like to add or change?
+    validations:
+      required: true
+  - type: textarea
+    id: impact
+    attributes:
+      label: Expected Impact
+      description: How would this help contributors, maintainers, or users?
+  - type: textarea
+    id: references
+    attributes:
+      label: References
+      description: Link any related issues, repositories, diagrams, or notes.
