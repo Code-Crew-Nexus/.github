@@ -110,7 +110,111 @@ Every project added here should strengthen the story of a team that builds with 
 ---
 ## Recent Commits
 
-> Recent commit activity will appear here once public repository pushes are available.
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<strong>Recent update</strong><br />
+<sub>Apr 04, 2026 · 18:02 UTC</sub>
+
+<br /><br />
+
+<img src="https://img.shields.io/badge/Committer-rajghosh06-dev-111827?style=for-the-badge&logo=github&logoColor=white" alt="rajghosh06-dev" />
+<img src="https://img.shields.io/badge/Repository-articulation-point-analysis-2563EB?style=for-the-badge" alt="articulation-point-analysis" />
+
+<br />
+
+<img src="https://img.shields.io/badge/Branch-main-7C3AED?style=for-the-badge" alt="main" />
+<img src="https://img.shields.io/badge/Commit-1aa7126-16A34A?style=for-the-badge" alt="1aa7126" />
+
+<br /><br />
+
+<a href="https://github.com/Code-Crew-Nexus/articulation-point-analysis">Open repository</a> · <a href="https://github.com/Code-Crew-Nexus/articulation-point-analysis/commit/1aa7126132c5734e2710ebe4d61e5e96e895bfcd">View commit</a>
+</td>
+<td width="50%" valign="top">
+<strong>Recent update</strong><br />
+<sub>Apr 04, 2026 · 17:19 UTC</sub>
+
+<br /><br />
+
+<img src="https://img.shields.io/badge/Committer-rajghosh06-dev-111827?style=for-the-badge&logo=github&logoColor=white" alt="rajghosh06-dev" />
+<img src="https://img.shields.io/badge/Repository-.github-2563EB?style=for-the-badge" alt=".github" />
+
+<br />
+
+<img src="https://img.shields.io/badge/Branch-main-7C3AED?style=for-the-badge" alt="main" />
+<img src="https://img.shields.io/badge/Commit-cf8f705-16A34A?style=for-the-badge" alt="cf8f705" />
+
+<br /><br />
+
+<a href="https://github.com/Code-Crew-Nexus/.github">Open repository</a> · <a href="https://github.com/Code-Crew-Nexus/.github/commit/cf8f70530a2c66aacf0d20c353f58df02a81de43">View commit</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<strong>Recent update</strong><br />
+<sub>Apr 04, 2026 · 17:13 UTC</sub>
+
+<br /><br />
+
+<img src="https://img.shields.io/badge/Committer-rajghosh06-dev-111827?style=for-the-badge&logo=github&logoColor=white" alt="rajghosh06-dev" />
+<img src="https://img.shields.io/badge/Repository-.github-2563EB?style=for-the-badge" alt=".github" />
+
+<br />
+
+<img src="https://img.shields.io/badge/Branch-main-7C3AED?style=for-the-badge" alt="main" />
+<img src="https://img.shields.io/badge/Commit-d8b1dac-16A34A?style=for-the-badge" alt="d8b1dac" />
+
+<br /><br />
+
+<a href="https://github.com/Code-Crew-Nexus/.github">Open repository</a> · <a href="https://github.com/Code-Crew-Nexus/.github/commit/d8b1dacc5678284fa929435a46d976b1a5673ae9">View commit</a>
+</td>
+<td width="50%" valign="top">
+<strong>Recent update</strong><br />
+<sub>Apr 04, 2026 · 17:04 UTC</sub>
+
+<br /><br />
+
+<img src="https://img.shields.io/badge/Committer-rajghosh06-dev-111827?style=for-the-badge&logo=github&logoColor=white" alt="rajghosh06-dev" />
+<img src="https://img.shields.io/badge/Repository-.github-2563EB?style=for-the-badge" alt=".github" />
+
+<br />
+
+<img src="https://img.shields.io/badge/Branch-main-7C3AED?style=for-the-badge" alt="main" />
+<img src="https://img.shields.io/badge/Commit-bc78582-16A34A?style=for-the-badge" alt="bc78582" />
+
+<br /><br />
+
+<a href="https://github.com/Code-Crew-Nexus/.github">Open repository</a> · <a href="https://github.com/Code-Crew-Nexus/.github/commit/bc785828cfd255ed58fdf7d7c739cb1b777a9d4f">View commit</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<strong>Recent update</strong><br />
+<sub>Apr 04, 2026 · 16:53 UTC</sub>
+
+<br /><br />
+
+<img src="https://img.shields.io/badge/Committer-rajghosh06-dev-111827?style=for-the-badge&logo=github&logoColor=white" alt="rajghosh06-dev" />
+<img src="https://img.shields.io/badge/Repository-.github-2563EB?style=for-the-badge" alt=".github" />
+
+<br />
+
+<img src="https://img.shields.io/badge/Branch-main-7C3AED?style=for-the-badge" alt="main" />
+<img src="https://img.shields.io/badge/Commit-3dbaa93-16A34A?style=for-the-badge" alt="3dbaa93" />
+
+<br /><br />
+
+<a href="https://github.com/Code-Crew-Nexus/.github">Open repository</a> · <a href="https://github.com/Code-Crew-Nexus/.github/commit/3dbaa93dee5a11fa0d23ff83a2d4f62cea13dee0">View commit</a>
+</td>
+<td width="50%" valign="top"></td>
+</tr>
+</table>
+
+</div>
+
+> This section is generated from recent public push activity across the organization and refreshes whenever the profile README is regenerated.
 
 ---
 ## Repository Structure
