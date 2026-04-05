@@ -103,7 +103,7 @@ Every project added here should strengthen the story of a team that builds with 
 
 | PROJECT | SUBJECT | STACK | DESCRIPTION | LAST UPDATE | BRANCHES | REPOSITORY |
 | --- | --- | --- | --- | --- | --- | --- |
-| **Articulation Point Analysis** | DAA | Java, HTML | Design and Analysis of Algorithms (DAA) – Articulation Point Analysis (PBL). A Java CLI project to study network reliability using Tarjan‑style DFS articulation point detection, CSV input, scale‑free graph generation, and optional HTML visualization for interactive analysis. | Apr 05, 2026 | `main` | [`articulation-point-analysis`](https://github.com/Code-Crew-Nexus/articulation-point-analysis) |
+| **Articulation Point Analysis** | DAA | Java | Design and Analysis of Algorithms (DAA) – Articulation Point Analysis (PBL). A Java CLI project to study network reliability using Tarjan‑style DFS articulation point detection, CSV input, scale‑free graph generation, and optional HTML visualization for interactive analysis. | Apr 06, 2026 | `main` | [`articulation-point-analysis`](https://github.com/Code-Crew-Nexus/articulation-point-analysis) |
 | **Page Replacement Algorithms Analysis** | OS | C | Simulation and analysis of FIFO, LRU, Optimal, and LFU page replacement algorithms with cross-platform Makefile support. | Apr 05, 2026 | `main` | [`page-replacement-algorithms-analysis`](https://github.com/Code-Crew-Nexus/page-replacement-algorithms-analysis) |
 | **Binary Tic Tac Toe Game** | CAALP | Assembly | A text-based Tic Tac Toe game implemented in x86 Assembly using MASM, running in DOSBox. | Apr 05, 2026 | `main` | [`binary-tic-tac-toe-game`](https://github.com/Code-Crew-Nexus/binary-tic-tac-toe-game) |
 
@@ -117,15 +117,15 @@ Every project added here should strengthen the story of a team that builds with 
 <table>
 <tr>
 <td width="50%" valign="top">
-<strong><a href="https://github.com/Code-Crew-Nexus/articulation-point-analysis/commit/a341d64bd4b25f4f52a9d4dbac20f715fc027bbe">Minor Change: Made major updates to all the errornous lines within README.md .</a></strong><br />
-<sub>Apr 05, 2026 · 08:42 PM IST</sub>
+<strong><a href="https://github.com/Code-Crew-Nexus/articulation-point-analysis/commit/a1b7cad6f87e779780c011ec5da1901c37e51fb4">Major Changes: Updated the README.md for it&#x27;s best info.</a></strong><br />
+<sub>Apr 06, 2026 · 12:17 AM IST</sub>
 
 <br /><br />
 
 <strong>Repository:</strong> <a href="https://github.com/Code-Crew-Nexus/articulation-point-analysis">articulation-point-analysis</a><br />
 <strong>Committed by:</strong> rajghosh06-dev<br />
 <strong>Branch:</strong> <code>main</code><br />
-<strong>Commit:</strong> <code>a341d64</code>
+<strong>Commit:</strong> <code>a1b7cad</code>
 </td>
 <td width="50%" valign="top">
 <strong><a href="https://github.com/Code-Crew-Nexus/page-replacement-algorithms-analysis/commit/7ae6582ad1bb879cd5646b867c5921ad59a930bc">Minor Change: Made major updates to all the errornous lines within README.md .</a></strong><br />
@@ -189,19 +189,15 @@ This section is generated from the organization's current public repositories wh
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center" width="33%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="64" height="64" /><br />
 <strong>Java</strong>
 </td>
-<td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="64" height="64" /><br />
-<strong>HTML</strong>
-</td>
-<td align="center" width="25%">
+<td align="center" width="33%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="64" height="64" /><br />
 <strong>C</strong>
 </td>
-<td align="center" width="25%">
+<td align="center" width="33%">
 <img src="https://img.shields.io/badge/ASM-111827?style=for-the-badge&logo=gnuassembler&logoColor=white" alt="Assembly" width="64" height="64" /><br />
 <strong>Assembly</strong>
 </td>
