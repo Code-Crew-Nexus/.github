@@ -3,7 +3,7 @@ name: Sync Organization Profile README
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 */4 * * *'
+    - cron: '17 */4 * * *'
   push:
     paths:
       - 'data/members.json'
@@ -28,6 +28,8 @@ jobs:
           python-version: '3.x'
 
       - name: Regenerate profile README
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
         run: python generate_readme.py
 
       - name: Commit updated README if needed

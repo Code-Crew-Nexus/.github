@@ -1,9 +1,30 @@
 [
-  "Rishit Ghosh",
-  "M. Sai Krishna",
-  "Shaik Zaheer Abbas",
-  "Y. Karthik",
-  "Metri Naveen Kumar",
-  "Md. Abdul Rayain",
-  "Eshwar"
+  {
+    "name": "Rishit Ghosh",
+    "designation": "Organization Member"
+  },
+  {
+    "name": "M. Sai Krishna",
+    "designation": "Organization Admin"
+  },
+  {
+    "name": "Shaik Zaheer Abbas",
+    "designation": "Organization Admin"
+  },
+  {
+    "name": "Y. Karthik",
+    "designation": "Organization Admin"
+  },
+  {
+    "name": "Metri Naveen Kumar",
+    "designation": "Organization Admin"
+  },
+  {
+    "name": "Md. Abdul Rayain",
+    "designation": "Organization Member"
+  },
+  {
+    "name": "Eshwar",
+    "designation": "Organization Member"
+  }
 ]

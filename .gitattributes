@@ -1,0 +1,22 @@
+# Keep the repository normalized to LF so Windows and Linux checkouts stay consistent.
+* text=auto eol=lf
+
+# Explicit text files we want normalized.
+*.md text eol=lf
+*.py text eol=lf
+*.json text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.txt text eol=lf
+*.gitignore text eol=lf
+*.gitattributes text eol=lf
+
+# Shell scripts should remain LF for Linux compatibility.
+*.sh text eol=lf
+
+# Common binary assets.
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary

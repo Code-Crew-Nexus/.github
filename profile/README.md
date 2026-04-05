@@ -101,11 +101,13 @@ Every project added here should strengthen the story of a team that builds with 
 ---
 ## Project Directory
 
-| PROJECT | SUBJECT | TOOLS/LANGUAGES USED | REPOSITORY LINK |
-| --- | --- | --- | --- |
-| **Coming Soon** | TBD | TBD | *Coming soon* |
+| PROJECT | SUBJECT | STACK | DESCRIPTION | LAST UPDATE | BRANCHES | REPOSITORY |
+| --- | --- | --- | --- | --- | --- | --- |
+| **Articulation Point Analysis** | DAA | Java, HTML | Design and Analysis of Algorithms (DAA) – Articulation Point Analysis (PBL). A Java CLI project to study network reliability using Tarjan‑style DFS articulation point detection, CSV input, scale‑free graph generation, and optional HTML visualization for interactive analysis. | Apr 05, 2026 | `main` | [`articulation-point-analysis`](https://github.com/Code-Crew-Nexus/articulation-point-analysis) |
+| **Page Replacement Algorithms Analysis** | OS | C | Simulation and analysis of FIFO, LRU, Optimal, and LFU page replacement algorithms with cross-platform Makefile support. | Apr 05, 2026 | `main` | [`page-replacement-algorithms-analysis`](https://github.com/Code-Crew-Nexus/page-replacement-algorithms-analysis) |
+| **Binary Tic Tac Toe Game** | PBL | Assembly | A text-based Tic Tac Toe game implemented in x86 Assembly using MASM, running in DOSBox. | Apr 05, 2026 | `main` | [`binary-tic-tac-toe-game`](https://github.com/Code-Crew-Nexus/binary-tic-tac-toe-game) |
 
-> This table is generated from `data/projects.json` so repositories can be added cleanly as the organization grows.
+> This directory is generated from the organization's public repositories and enriched by optional overrides in `data/projects.json`.
 
 ---
 ## Recent Commits
@@ -115,123 +117,47 @@ Every project added here should strengthen the story of a team that builds with 
 <table>
 <tr>
 <td width="50%" valign="top">
-<strong>Recent update</strong><br />
-<sub>Apr 05, 2026 · 10:16 UTC</sub>
+<strong><a href="https://github.com/Code-Crew-Nexus/articulation-point-analysis/commit/a341d64bd4b25f4f52a9d4dbac20f715fc027bbe">Minor Change: Made major updates to all the errornous lines within README.md .</a></strong><br />
+<sub>Apr 05, 2026 · 08:42 PM IST</sub>
 
 <br /><br />
 
-<img src="https://img.shields.io/badge/Committer-rajghosh06-dev-111827?style=for-the-badge&logo=github&logoColor=white" alt="rajghosh06-dev" />
-<img src="https://img.shields.io/badge/Repository-articulation-point-analysis-2563EB?style=for-the-badge" alt="articulation-point-analysis" />
-
-<br />
-
-<img src="https://img.shields.io/badge/Branch-main-7C3AED?style=for-the-badge" alt="main" />
-<img src="https://img.shields.io/badge/Commit-beba74f-16A34A?style=for-the-badge" alt="beba74f" />
-
-<br /><br />
-
-<a href="https://github.com/Code-Crew-Nexus/articulation-point-analysis">Open repository</a> · <a href="https://github.com/Code-Crew-Nexus/articulation-point-analysis/commit/beba74faab16b7bff79b0ffef3996510a15cda47">View commit</a>
+<strong>Repository:</strong> <a href="https://github.com/Code-Crew-Nexus/articulation-point-analysis">articulation-point-analysis</a><br />
+<strong>Committed by:</strong> rajghosh06-dev<br />
+<strong>Branch:</strong> <code>main</code><br />
+<strong>Commit:</strong> <code>a341d64</code>
 </td>
 <td width="50%" valign="top">
-<strong>Recent update</strong><br />
-<sub>Apr 05, 2026 · 10:14 UTC</sub>
+<strong><a href="https://github.com/Code-Crew-Nexus/page-replacement-algorithms-analysis/commit/7ae6582ad1bb879cd5646b867c5921ad59a930bc">Minor Change: Made major updates to all the errornous lines within README.md .</a></strong><br />
+<sub>Apr 05, 2026 · 08:41 PM IST</sub>
 
 <br /><br />
 
-<img src="https://img.shields.io/badge/Committer-rajghosh06-dev-111827?style=for-the-badge&logo=github&logoColor=white" alt="rajghosh06-dev" />
-<img src="https://img.shields.io/badge/Repository-articulation-point-analysis-2563EB?style=for-the-badge" alt="articulation-point-analysis" />
-
-<br />
-
-<img src="https://img.shields.io/badge/Branch-main-7C3AED?style=for-the-badge" alt="main" />
-<img src="https://img.shields.io/badge/Commit-4afa7f7-16A34A?style=for-the-badge" alt="4afa7f7" />
-
-<br /><br />
-
-<a href="https://github.com/Code-Crew-Nexus/articulation-point-analysis">Open repository</a> · <a href="https://github.com/Code-Crew-Nexus/articulation-point-analysis/commit/4afa7f7d6a18053721875ffacec244a8437950be">View commit</a>
+<strong>Repository:</strong> <a href="https://github.com/Code-Crew-Nexus/page-replacement-algorithms-analysis">page-replacement-algorithms-analysis</a><br />
+<strong>Committed by:</strong> rajghosh06-dev<br />
+<strong>Branch:</strong> <code>main</code><br />
+<strong>Commit:</strong> <code>7ae6582</code>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<strong>Recent update</strong><br />
-<sub>Apr 05, 2026 · 10:00 UTC</sub>
+<strong><a href="https://github.com/Code-Crew-Nexus/binary-tic-tac-toe-game/commit/0f47fdf303bd1735bea53d33c2765edfe2683804">Minor Change: Re-configured the README.md with updated BADGES for rectifying the errors being displayed on the MAIN Page in GITHUB.</a></strong><br />
+<sub>Apr 05, 2026 · 03:30 PM IST</sub>
 
 <br /><br />
 
-<img src="https://img.shields.io/badge/Committer-rajghosh06-dev-111827?style=for-the-badge&logo=github&logoColor=white" alt="rajghosh06-dev" />
-<img src="https://img.shields.io/badge/Repository-binary-tic-tac-toe-game-2563EB?style=for-the-badge" alt="binary-tic-tac-toe-game" />
-
-<br />
-
-<img src="https://img.shields.io/badge/Branch-main-7C3AED?style=for-the-badge" alt="main" />
-<img src="https://img.shields.io/badge/Commit-0f47fdf-16A34A?style=for-the-badge" alt="0f47fdf" />
-
-<br /><br />
-
-<a href="https://github.com/Code-Crew-Nexus/binary-tic-tac-toe-game">Open repository</a> · <a href="https://github.com/Code-Crew-Nexus/binary-tic-tac-toe-game/commit/0f47fdf303bd1735bea53d33c2765edfe2683804">View commit</a>
+<strong>Repository:</strong> <a href="https://github.com/Code-Crew-Nexus/binary-tic-tac-toe-game">binary-tic-tac-toe-game</a><br />
+<strong>Committed by:</strong> rajghosh06-dev<br />
+<strong>Branch:</strong> <code>main</code><br />
+<strong>Commit:</strong> <code>0f47fdf</code>
 </td>
-<td width="50%" valign="top">
-<strong>Recent update</strong><br />
-<sub>Apr 05, 2026 · 09:55 UTC</sub>
-
-<br /><br />
-
-<img src="https://img.shields.io/badge/Committer-rajghosh06-dev-111827?style=for-the-badge&logo=github&logoColor=white" alt="rajghosh06-dev" />
-<img src="https://img.shields.io/badge/Repository-binary-tic-tac-toe-game-2563EB?style=for-the-badge" alt="binary-tic-tac-toe-game" />
-
-<br />
-
-<img src="https://img.shields.io/badge/Branch-main-7C3AED?style=for-the-badge" alt="main" />
-<img src="https://img.shields.io/badge/Commit-39b9578-16A34A?style=for-the-badge" alt="39b9578" />
-
-<br /><br />
-
-<a href="https://github.com/Code-Crew-Nexus/binary-tic-tac-toe-game">Open repository</a> · <a href="https://github.com/Code-Crew-Nexus/binary-tic-tac-toe-game/commit/39b9578872d8fa7d944ffacecff55af9841bdeac">View commit</a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<strong>Recent update</strong><br />
-<sub>Apr 05, 2026 · 08:37 UTC</sub>
-
-<br /><br />
-
-<img src="https://img.shields.io/badge/Committer-github-actions-111827?style=for-the-badge&logo=github&logoColor=white" alt="github-actions" />
-<img src="https://img.shields.io/badge/Repository-.github-2563EB?style=for-the-badge" alt=".github" />
-
-<br />
-
-<img src="https://img.shields.io/badge/Branch-main-7C3AED?style=for-the-badge" alt="main" />
-<img src="https://img.shields.io/badge/Commit-0dda8a8-16A34A?style=for-the-badge" alt="0dda8a8" />
-
-<br /><br />
-
-<a href="https://github.com/Code-Crew-Nexus/.github">Open repository</a> · <a href="https://github.com/Code-Crew-Nexus/.github/commit/0dda8a8eaa41e4303d624827ab3b9dfed60a7640">View commit</a>
-</td>
-<td width="50%" valign="top">
-<strong>Recent update</strong><br />
-<sub>Apr 05, 2026 · 05:42 UTC</sub>
-
-<br /><br />
-
-<img src="https://img.shields.io/badge/Committer-github-actions-111827?style=for-the-badge&logo=github&logoColor=white" alt="github-actions" />
-<img src="https://img.shields.io/badge/Repository-.github-2563EB?style=for-the-badge" alt=".github" />
-
-<br />
-
-<img src="https://img.shields.io/badge/Branch-main-7C3AED?style=for-the-badge" alt="main" />
-<img src="https://img.shields.io/badge/Commit-f026953-16A34A?style=for-the-badge" alt="f026953" />
-
-<br /><br />
-
-<a href="https://github.com/Code-Crew-Nexus/.github">Open repository</a> · <a href="https://github.com/Code-Crew-Nexus/.github/commit/f026953484ad1d38f8cd2fae3150424327e5364f">View commit</a>
-</td>
+<td width="50%" valign="top">&nbsp;</td>
 </tr>
 </table>
 
 </div>
 
-> This section is generated from recent public push activity across the organization and refreshes whenever the profile README is regenerated.
+> This section is generated from the latest public commits across organization repositories and is shown in Indian Standard Time.
 
 ---
 ## Repository Structure
@@ -255,23 +181,106 @@ Every project added here should strengthen the story of a team that builds with 
 ---
 ## Tech Specs & Tools
 
-This section is intentionally left open for now so it can be filled accurately once repository standards and tool choices are finalized.
+This section is generated from the organization's current public repositories wherever possible, while the core collaboration tools remain intentionally standardized.
 
 ### Languages
 
-*To be added.*
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="64" height="64" /><br />
+<strong>Java</strong>
+</td>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="64" height="64" /><br />
+<strong>HTML</strong>
+</td>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="64" height="64" /><br />
+<strong>C</strong>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/ASM-111827?style=for-the-badge&logo=gnuassembler&logoColor=white" alt="Assembly" width="64" height="64" /><br />
+<strong>Assembly</strong>
+</td>
+<td align="center" width="20%">&nbsp;</td>
+</tr>
+</table>
+
+</div>
 
 ### Frameworks
 
-*To be added.*
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">&nbsp;</td>
+<td align="center" width="25%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" alt="Maven" width="64" height="64" /><br />
+<strong>Maven</strong>
+</td>
+<td align="center" width="25%">&nbsp;</td>
+<td align="center" width="25%">&nbsp;</td>
+</tr>
+</table>
+
+</div>
 
 ### Tools
 
-*To be added.*
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="64" height="64" /><br />
+<strong>PyCharm</strong>
+</td>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ" width="64" height="64" /><br />
+<strong>IntelliJ</strong>
+</td>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="64" height="64" /><br />
+<strong>Jupyter</strong>
+</td>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="64" height="64" /><br />
+<strong>Git</strong>
+</td>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="64" height="64" /><br />
+<strong>VS Code</strong>
+</td>
+</tr>
+<tr>
+<td align="center" width="20%">&nbsp;</td>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="64" height="64" /><br />
+<strong>Eclipse</strong>
+</td>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="Dev C++" width="64" height="64" /><br />
+<strong>Dev C++</strong>
+</td>
+<td align="center" width="20%">&nbsp;</td>
+<td align="center" width="20%">&nbsp;</td>
+</tr>
+</table>
+
+</div>
 
 ### What We Optimize For
 
-*To be added.*
+- Clean repository structure and readable implementation.
+- Documentation that helps peers, faculty, and reviewers understand the work quickly.
+- Project setups that stay reproducible as repositories keep growing.
+- Practical tools that support collaboration across different subjects and workflows.
+
+> Languages and frameworks are inferred from the organization's public repositories. Tools are kept as a standard baseline for the team workspace.
 
 ---
 ## Why This Org Stands Out
@@ -296,25 +305,50 @@ This section is intentionally left open for now so it can be filled accurately o
 ---
 ## Members
 
-> The members listed below are generated from `data/members.json`. Repository-level contributors can vary by project, scope, and requirements.
-
 <div align="center">
 
-<img src="https://img.shields.io/badge/Rishit%20Ghosh-Member-111827?style=for-the-badge&logo=github&logoColor=white" alt="Rishit Ghosh" />
-<img src="https://img.shields.io/badge/M.%20Sai%20Krishna-Member-111827?style=for-the-badge&logo=github&logoColor=white" alt="M. Sai Krishna" />
-<img src="https://img.shields.io/badge/Shaik%20Zaheer%20Abbas-Member-111827?style=for-the-badge&logo=github&logoColor=white" alt="Shaik Zaheer Abbas" />
-
-<br />
-
-<img src="https://img.shields.io/badge/Y.%20Karthik-Member-111827?style=for-the-badge&logo=github&logoColor=white" alt="Y. Karthik" />
-<img src="https://img.shields.io/badge/Metri%20Naveen%20Kumar-Member-111827?style=for-the-badge&logo=github&logoColor=white" alt="Metri Naveen Kumar" />
-<img src="https://img.shields.io/badge/Md.%20Abdul%20Rayain-Member-111827?style=for-the-badge&logo=github&logoColor=white" alt="Md. Abdul Rayain" />
-
-<br />
-
-<img src="https://img.shields.io/badge/Eshwar-Member-111827?style=for-the-badge&logo=github&logoColor=white" alt="Eshwar" />
+<table>
+<tr>
+<td align="center" width="33%">
+<strong>Rishit Ghosh</strong><br />
+<sub>Organization Member</sub>
+</td>
+<td align="center" width="33%">
+<strong>M. Sai Krishna</strong><br />
+<sub>Organization Admin</sub>
+</td>
+<td align="center" width="33%">
+<strong>Shaik Zaheer Abbas</strong><br />
+<sub>Organization Admin</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<strong>Y. Karthik</strong><br />
+<sub>Organization Admin</sub>
+</td>
+<td align="center" width="33%">
+<strong>Metri Naveen Kumar</strong><br />
+<sub>Organization Admin</sub>
+</td>
+<td align="center" width="33%">
+<strong>Md. Abdul Rayain</strong><br />
+<sub>Organization Member</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">&nbsp;</td>
+<td align="center" width="33%">
+<strong>Eshwar</strong><br />
+<sub>Organization Member</sub>
+</td>
+<td align="center" width="33%">&nbsp;</td>
+</tr>
+</table>
 
 </div>
+
+> This section is generated from `data/members.json` and is presented as the current organization member list for the profile.
 
 ---
 ## Tagline
