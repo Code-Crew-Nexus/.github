@@ -1,8 +1,17 @@
 [
   {
-    "project": "Coming Soon",
-    "subject": "TBD",
-    "tools_languages": "TBD",
-    "repo_name": ""
+    "repo_name": "articulation-point-analysis",
+    "project": "Articulation Point Analysis",
+    "subject": "DAA"
+  },
+  {
+    "repo_name": "page-replacement-algorithms-analysis",
+    "project": "Page Replacement Algorithms Analysis",
+    "subject": "OS"
+  },
+  {
+    "repo_name": "binary-tic-tac-toe-game",
+    "project": "Binary Tic Tac Toe Game",
+    "subject": "CAALP"
   }
 ]
