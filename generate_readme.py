@@ -617,32 +617,27 @@ def render_icon_table(items: list[tuple[str, str]], columns: int = 5) -> str:
     if not items:
         return "*No items detected yet.*"
 
-    rows = []
+    row_tables = []
     for row in chunked(items, columns):
         cells = []
-        is_partial_row = len(row) < columns
-        left_pad = (columns - len(row)) // 2 if is_partial_row else 0
-        right_pad = columns - len(row) - left_pad if is_partial_row else 0
-
-        for _ in range(left_pad):
-            cells.append(f'<td align="center" width="{100 // columns}%">&nbsp;</td>')
+        cell_width = max(1, 100 // max(1, len(row)))
 
         for name, icon_url in row:
             safe_name = html.escape(name)
             cells.append(
-                f"""<td align="center" width="{100 // columns}%">
+                f"""<td align="center" width="{cell_width}%">
 <img src="{icon_url}" alt="{safe_name}" width="64" height="64" /><br />
 <strong>{safe_name}</strong>
 </td>"""
             )
 
-        while right_pad > 0:
-            cells.append(f'<td align="center" width="{100 // columns}%">&nbsp;</td>')
-            right_pad -= 1
+        row_tables.append(
+            '<table>\n<tr>\n'
+            + "\n".join(cells)
+            + "\n</tr>\n</table>"
+        )
 
-        rows.append("<tr>\n" + "\n".join(cells) + "\n</tr>")
-
-    return '<div align="center">\n\n<table>\n' + "\n".join(rows) + "\n</table>\n\n</div>"
+    return '<div align="center">\n\n' + "\n\n".join(row_tables) + "\n\n</div>"
 
 
 def build_tech_specs(repos: list[dict]) -> dict[str, list]:
