@@ -112,7 +112,52 @@ Every project added here should strengthen the story of a team that builds with 
 ---
 ## Recent Commits
 
-> Recent commit activity will appear here once public repositories in the organization start receiving commits.
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<strong><a href="https://github.com/Code-Crew-Nexus/articulation-point-analysis/commit/a341d64bd4b25f4f52a9d4dbac20f715fc027bbe">Minor Change: Made major updates to all the errornous lines within README.md .</a></strong><br />
+<sub>Apr 05, 2026 · 08:42 PM IST</sub>
+
+<br /><br />
+
+<strong>Repository:</strong> <a href="https://github.com/Code-Crew-Nexus/articulation-point-analysis">articulation-point-analysis</a><br />
+<strong>Committed by:</strong> rajghosh06-dev<br />
+<strong>Branch:</strong> <code>main</code><br />
+<strong>Commit:</strong> <code>a341d64</code>
+</td>
+<td width="50%" valign="top">
+<strong><a href="https://github.com/Code-Crew-Nexus/page-replacement-algorithms-analysis/commit/7ae6582ad1bb879cd5646b867c5921ad59a930bc">Minor Change: Made major updates to all the errornous lines within README.md .</a></strong><br />
+<sub>Apr 05, 2026 · 08:41 PM IST</sub>
+
+<br /><br />
+
+<strong>Repository:</strong> <a href="https://github.com/Code-Crew-Nexus/page-replacement-algorithms-analysis">page-replacement-algorithms-analysis</a><br />
+<strong>Committed by:</strong> rajghosh06-dev<br />
+<strong>Branch:</strong> <code>main</code><br />
+<strong>Commit:</strong> <code>7ae6582</code>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<strong><a href="https://github.com/Code-Crew-Nexus/binary-tic-tac-toe-game/commit/0f47fdf303bd1735bea53d33c2765edfe2683804">Minor Change: Re-configured the README.md with updated BADGES for rectifying the errors being displayed on the MAIN Page in GITHUB.</a></strong><br />
+<sub>Apr 05, 2026 · 03:30 PM IST</sub>
+
+<br /><br />
+
+<strong>Repository:</strong> <a href="https://github.com/Code-Crew-Nexus/binary-tic-tac-toe-game">binary-tic-tac-toe-game</a><br />
+<strong>Committed by:</strong> rajghosh06-dev<br />
+<strong>Branch:</strong> <code>main</code><br />
+<strong>Commit:</strong> <code>0f47fdf</code>
+</td>
+<td width="50%" valign="top">&nbsp;</td>
+</tr>
+</table>
+
+</div>
+
+> This section is generated from the latest public commits across organization repositories and is shown in Indian Standard Time.
 
 ---
 ## Repository Structure
@@ -144,13 +189,21 @@ This section is generated from the organization's current public repositories wh
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td align="center" width="25%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="64" height="64" /><br />
 <strong>Java</strong>
 </td>
-<td align="center" width="50%">
+<td align="center" width="25%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="64" height="64" /><br />
 <strong>HTML</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="64" height="64" /><br />
+<strong>C</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/ASM-111827?style=for-the-badge&logo=gnuassembler&logoColor=white" alt="Assembly" width="64" height="64" /><br />
+<strong>Assembly</strong>
 </td>
 </tr>
 </table>
