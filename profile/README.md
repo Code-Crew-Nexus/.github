@@ -116,7 +116,7 @@ Every project added here should strengthen the story of a team that builds with 
 <tr>
 <td width="50%" valign="top">
 <strong>Recent update</strong><br />
-<sub>Apr 05, 2026 · 10:16 UTC</sub>
+<sub>Apr 05, 2026 · 15:12 UTC</sub>
 
 <br /><br />
 
@@ -126,73 +126,91 @@ Every project added here should strengthen the story of a team that builds with 
 <br />
 
 <img src="https://img.shields.io/badge/Branch-main-7C3AED?style=for-the-badge" alt="main" />
-<img src="https://img.shields.io/badge/Commit-beba74f-16A34A?style=for-the-badge" alt="beba74f" />
+<img src="https://img.shields.io/badge/Commit-a341d64-16A34A?style=for-the-badge" alt="a341d64" />
 
 <br /><br />
 
-<a href="https://github.com/Code-Crew-Nexus/articulation-point-analysis">Open repository</a> · <a href="https://github.com/Code-Crew-Nexus/articulation-point-analysis/commit/beba74faab16b7bff79b0ffef3996510a15cda47">View commit</a>
+<a href="https://github.com/Code-Crew-Nexus/articulation-point-analysis">Open repository</a> · <a href="https://github.com/Code-Crew-Nexus/articulation-point-analysis/commit/a341d64bd4b25f4f52a9d4dbac20f715fc027bbe">View commit</a>
 </td>
 <td width="50%" valign="top">
 <strong>Recent update</strong><br />
-<sub>Apr 05, 2026 · 10:14 UTC</sub>
+<sub>Apr 05, 2026 · 15:11 UTC</sub>
 
 <br /><br />
 
 <img src="https://img.shields.io/badge/Committer-rajghosh06-dev-111827?style=for-the-badge&logo=github&logoColor=white" alt="rajghosh06-dev" />
-<img src="https://img.shields.io/badge/Repository-articulation-point-analysis-2563EB?style=for-the-badge" alt="articulation-point-analysis" />
+<img src="https://img.shields.io/badge/Repository-page-replacement-algorithms-analysis-2563EB?style=for-the-badge" alt="page-replacement-algorithms-analysis" />
 
 <br />
 
 <img src="https://img.shields.io/badge/Branch-main-7C3AED?style=for-the-badge" alt="main" />
-<img src="https://img.shields.io/badge/Commit-4afa7f7-16A34A?style=for-the-badge" alt="4afa7f7" />
+<img src="https://img.shields.io/badge/Commit-7ae6582-16A34A?style=for-the-badge" alt="7ae6582" />
 
 <br /><br />
 
-<a href="https://github.com/Code-Crew-Nexus/articulation-point-analysis">Open repository</a> · <a href="https://github.com/Code-Crew-Nexus/articulation-point-analysis/commit/4afa7f7d6a18053721875ffacec244a8437950be">View commit</a>
+<a href="https://github.com/Code-Crew-Nexus/page-replacement-algorithms-analysis">Open repository</a> · <a href="https://github.com/Code-Crew-Nexus/page-replacement-algorithms-analysis/commit/7ae6582ad1bb879cd5646b867c5921ad59a930bc">View commit</a>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <strong>Recent update</strong><br />
-<sub>Apr 05, 2026 · 10:00 UTC</sub>
+<sub>Apr 05, 2026 · 15:03 UTC</sub>
 
 <br /><br />
 
 <img src="https://img.shields.io/badge/Committer-rajghosh06-dev-111827?style=for-the-badge&logo=github&logoColor=white" alt="rajghosh06-dev" />
-<img src="https://img.shields.io/badge/Repository-binary-tic-tac-toe-game-2563EB?style=for-the-badge" alt="binary-tic-tac-toe-game" />
+<img src="https://img.shields.io/badge/Repository-page-replacement-algorithms-analysis-2563EB?style=for-the-badge" alt="page-replacement-algorithms-analysis" />
 
 <br />
 
 <img src="https://img.shields.io/badge/Branch-main-7C3AED?style=for-the-badge" alt="main" />
-<img src="https://img.shields.io/badge/Commit-0f47fdf-16A34A?style=for-the-badge" alt="0f47fdf" />
+<img src="https://img.shields.io/badge/Commit-20d742a-16A34A?style=for-the-badge" alt="20d742a" />
 
 <br /><br />
 
-<a href="https://github.com/Code-Crew-Nexus/binary-tic-tac-toe-game">Open repository</a> · <a href="https://github.com/Code-Crew-Nexus/binary-tic-tac-toe-game/commit/0f47fdf303bd1735bea53d33c2765edfe2683804">View commit</a>
+<a href="https://github.com/Code-Crew-Nexus/page-replacement-algorithms-analysis">Open repository</a> · <a href="https://github.com/Code-Crew-Nexus/page-replacement-algorithms-analysis/commit/20d742a65953de684872f61b2a51ba7a328db5b5">View commit</a>
 </td>
 <td width="50%" valign="top">
 <strong>Recent update</strong><br />
-<sub>Apr 05, 2026 · 09:55 UTC</sub>
+<sub>Apr 05, 2026 · 15:01 UTC</sub>
 
 <br /><br />
 
 <img src="https://img.shields.io/badge/Committer-rajghosh06-dev-111827?style=for-the-badge&logo=github&logoColor=white" alt="rajghosh06-dev" />
-<img src="https://img.shields.io/badge/Repository-binary-tic-tac-toe-game-2563EB?style=for-the-badge" alt="binary-tic-tac-toe-game" />
+<img src="https://img.shields.io/badge/Repository-page-replacement-algorithms-analysis-2563EB?style=for-the-badge" alt="page-replacement-algorithms-analysis" />
 
 <br />
 
 <img src="https://img.shields.io/badge/Branch-main-7C3AED?style=for-the-badge" alt="main" />
-<img src="https://img.shields.io/badge/Commit-39b9578-16A34A?style=for-the-badge" alt="39b9578" />
+<img src="https://img.shields.io/badge/Commit-ca12a69-16A34A?style=for-the-badge" alt="ca12a69" />
 
 <br /><br />
 
-<a href="https://github.com/Code-Crew-Nexus/binary-tic-tac-toe-game">Open repository</a> · <a href="https://github.com/Code-Crew-Nexus/binary-tic-tac-toe-game/commit/39b9578872d8fa7d944ffacecff55af9841bdeac">View commit</a>
+<a href="https://github.com/Code-Crew-Nexus/page-replacement-algorithms-analysis">Open repository</a> · <a href="https://github.com/Code-Crew-Nexus/page-replacement-algorithms-analysis/commit/ca12a69ff185dc61d3bb4970278a39adc30fd136">View commit</a>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <strong>Recent update</strong><br />
-<sub>Apr 05, 2026 · 08:37 UTC</sub>
+<sub>Apr 05, 2026 · 14:54 UTC</sub>
+
+<br /><br />
+
+<img src="https://img.shields.io/badge/Committer-rajghosh06-dev-111827?style=for-the-badge&logo=github&logoColor=white" alt="rajghosh06-dev" />
+<img src="https://img.shields.io/badge/Repository-page-replacement-algorithms-analysis-2563EB?style=for-the-badge" alt="page-replacement-algorithms-analysis" />
+
+<br />
+
+<img src="https://img.shields.io/badge/Branch-main-7C3AED?style=for-the-badge" alt="main" />
+<img src="https://img.shields.io/badge/Commit-496f286-16A34A?style=for-the-badge" alt="496f286" />
+
+<br /><br />
+
+<a href="https://github.com/Code-Crew-Nexus/page-replacement-algorithms-analysis">Open repository</a> · <a href="https://github.com/Code-Crew-Nexus/page-replacement-algorithms-analysis/commit/496f28649e8a1646208549fcabfa453c2e927d73">View commit</a>
+</td>
+<td width="50%" valign="top">
+<strong>Recent update</strong><br />
+<sub>Apr 05, 2026 · 12:45 UTC</sub>
 
 <br /><br />
 
@@ -202,29 +220,11 @@ Every project added here should strengthen the story of a team that builds with 
 <br />
 
 <img src="https://img.shields.io/badge/Branch-main-7C3AED?style=for-the-badge" alt="main" />
-<img src="https://img.shields.io/badge/Commit-0dda8a8-16A34A?style=for-the-badge" alt="0dda8a8" />
+<img src="https://img.shields.io/badge/Commit-e931cb2-16A34A?style=for-the-badge" alt="e931cb2" />
 
 <br /><br />
 
-<a href="https://github.com/Code-Crew-Nexus/.github">Open repository</a> · <a href="https://github.com/Code-Crew-Nexus/.github/commit/0dda8a8eaa41e4303d624827ab3b9dfed60a7640">View commit</a>
-</td>
-<td width="50%" valign="top">
-<strong>Recent update</strong><br />
-<sub>Apr 05, 2026 · 05:42 UTC</sub>
-
-<br /><br />
-
-<img src="https://img.shields.io/badge/Committer-github-actions-111827?style=for-the-badge&logo=github&logoColor=white" alt="github-actions" />
-<img src="https://img.shields.io/badge/Repository-.github-2563EB?style=for-the-badge" alt=".github" />
-
-<br />
-
-<img src="https://img.shields.io/badge/Branch-main-7C3AED?style=for-the-badge" alt="main" />
-<img src="https://img.shields.io/badge/Commit-f026953-16A34A?style=for-the-badge" alt="f026953" />
-
-<br /><br />
-
-<a href="https://github.com/Code-Crew-Nexus/.github">Open repository</a> · <a href="https://github.com/Code-Crew-Nexus/.github/commit/f026953484ad1d38f8cd2fae3150424327e5364f">View commit</a>
+<a href="https://github.com/Code-Crew-Nexus/.github">Open repository</a> · <a href="https://github.com/Code-Crew-Nexus/.github/commit/e931cb2bc15f682ded9ed09b856163f50e5b3318">View commit</a>
 </td>
 </tr>
 </table>
