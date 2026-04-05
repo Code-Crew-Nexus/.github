@@ -116,6 +116,100 @@ Every project added here should strengthen the story of a team that builds with 
 <tr>
 <td width="50%" valign="top">
 <strong>Recent update</strong><br />
+<sub>Apr 05, 2026 · 10:16 UTC</sub>
+
+<br /><br />
+
+<img src="https://img.shields.io/badge/Committer-rajghosh06-dev-111827?style=for-the-badge&logo=github&logoColor=white" alt="rajghosh06-dev" />
+<img src="https://img.shields.io/badge/Repository-articulation-point-analysis-2563EB?style=for-the-badge" alt="articulation-point-analysis" />
+
+<br />
+
+<img src="https://img.shields.io/badge/Branch-main-7C3AED?style=for-the-badge" alt="main" />
+<img src="https://img.shields.io/badge/Commit-beba74f-16A34A?style=for-the-badge" alt="beba74f" />
+
+<br /><br />
+
+<a href="https://github.com/Code-Crew-Nexus/articulation-point-analysis">Open repository</a> · <a href="https://github.com/Code-Crew-Nexus/articulation-point-analysis/commit/beba74faab16b7bff79b0ffef3996510a15cda47">View commit</a>
+</td>
+<td width="50%" valign="top">
+<strong>Recent update</strong><br />
+<sub>Apr 05, 2026 · 10:14 UTC</sub>
+
+<br /><br />
+
+<img src="https://img.shields.io/badge/Committer-rajghosh06-dev-111827?style=for-the-badge&logo=github&logoColor=white" alt="rajghosh06-dev" />
+<img src="https://img.shields.io/badge/Repository-articulation-point-analysis-2563EB?style=for-the-badge" alt="articulation-point-analysis" />
+
+<br />
+
+<img src="https://img.shields.io/badge/Branch-main-7C3AED?style=for-the-badge" alt="main" />
+<img src="https://img.shields.io/badge/Commit-4afa7f7-16A34A?style=for-the-badge" alt="4afa7f7" />
+
+<br /><br />
+
+<a href="https://github.com/Code-Crew-Nexus/articulation-point-analysis">Open repository</a> · <a href="https://github.com/Code-Crew-Nexus/articulation-point-analysis/commit/4afa7f7d6a18053721875ffacec244a8437950be">View commit</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<strong>Recent update</strong><br />
+<sub>Apr 05, 2026 · 10:00 UTC</sub>
+
+<br /><br />
+
+<img src="https://img.shields.io/badge/Committer-rajghosh06-dev-111827?style=for-the-badge&logo=github&logoColor=white" alt="rajghosh06-dev" />
+<img src="https://img.shields.io/badge/Repository-binary-tic-tac-toe-game-2563EB?style=for-the-badge" alt="binary-tic-tac-toe-game" />
+
+<br />
+
+<img src="https://img.shields.io/badge/Branch-main-7C3AED?style=for-the-badge" alt="main" />
+<img src="https://img.shields.io/badge/Commit-0f47fdf-16A34A?style=for-the-badge" alt="0f47fdf" />
+
+<br /><br />
+
+<a href="https://github.com/Code-Crew-Nexus/binary-tic-tac-toe-game">Open repository</a> · <a href="https://github.com/Code-Crew-Nexus/binary-tic-tac-toe-game/commit/0f47fdf303bd1735bea53d33c2765edfe2683804">View commit</a>
+</td>
+<td width="50%" valign="top">
+<strong>Recent update</strong><br />
+<sub>Apr 05, 2026 · 09:55 UTC</sub>
+
+<br /><br />
+
+<img src="https://img.shields.io/badge/Committer-rajghosh06-dev-111827?style=for-the-badge&logo=github&logoColor=white" alt="rajghosh06-dev" />
+<img src="https://img.shields.io/badge/Repository-binary-tic-tac-toe-game-2563EB?style=for-the-badge" alt="binary-tic-tac-toe-game" />
+
+<br />
+
+<img src="https://img.shields.io/badge/Branch-main-7C3AED?style=for-the-badge" alt="main" />
+<img src="https://img.shields.io/badge/Commit-39b9578-16A34A?style=for-the-badge" alt="39b9578" />
+
+<br /><br />
+
+<a href="https://github.com/Code-Crew-Nexus/binary-tic-tac-toe-game">Open repository</a> · <a href="https://github.com/Code-Crew-Nexus/binary-tic-tac-toe-game/commit/39b9578872d8fa7d944ffacecff55af9841bdeac">View commit</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<strong>Recent update</strong><br />
+<sub>Apr 05, 2026 · 08:37 UTC</sub>
+
+<br /><br />
+
+<img src="https://img.shields.io/badge/Committer-github-actions-111827?style=for-the-badge&logo=github&logoColor=white" alt="github-actions" />
+<img src="https://img.shields.io/badge/Repository-.github-2563EB?style=for-the-badge" alt=".github" />
+
+<br />
+
+<img src="https://img.shields.io/badge/Branch-main-7C3AED?style=for-the-badge" alt="main" />
+<img src="https://img.shields.io/badge/Commit-0dda8a8-16A34A?style=for-the-badge" alt="0dda8a8" />
+
+<br /><br />
+
+<a href="https://github.com/Code-Crew-Nexus/.github">Open repository</a> · <a href="https://github.com/Code-Crew-Nexus/.github/commit/0dda8a8eaa41e4303d624827ab3b9dfed60a7640">View commit</a>
+</td>
+<td width="50%" valign="top">
+<strong>Recent update</strong><br />
 <sub>Apr 05, 2026 · 05:42 UTC</sub>
 
 <br /><br />
@@ -131,100 +225,6 @@ Every project added here should strengthen the story of a team that builds with 
 <br /><br />
 
 <a href="https://github.com/Code-Crew-Nexus/.github">Open repository</a> · <a href="https://github.com/Code-Crew-Nexus/.github/commit/f026953484ad1d38f8cd2fae3150424327e5364f">View commit</a>
-</td>
-<td width="50%" valign="top">
-<strong>Recent update</strong><br />
-<sub>Apr 05, 2026 · 02:00 UTC</sub>
-
-<br /><br />
-
-<img src="https://img.shields.io/badge/Committer-github-actions-111827?style=for-the-badge&logo=github&logoColor=white" alt="github-actions" />
-<img src="https://img.shields.io/badge/Repository-.github-2563EB?style=for-the-badge" alt=".github" />
-
-<br />
-
-<img src="https://img.shields.io/badge/Branch-main-7C3AED?style=for-the-badge" alt="main" />
-<img src="https://img.shields.io/badge/Commit-8a93e6e-16A34A?style=for-the-badge" alt="8a93e6e" />
-
-<br /><br />
-
-<a href="https://github.com/Code-Crew-Nexus/.github">Open repository</a> · <a href="https://github.com/Code-Crew-Nexus/.github/commit/8a93e6e7d4351f384ec86e8c6cdf59d21692c367">View commit</a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<strong>Recent update</strong><br />
-<sub>Apr 04, 2026 · 20:24 UTC</sub>
-
-<br /><br />
-
-<img src="https://img.shields.io/badge/Committer-github-actions-111827?style=for-the-badge&logo=github&logoColor=white" alt="github-actions" />
-<img src="https://img.shields.io/badge/Repository-.github-2563EB?style=for-the-badge" alt=".github" />
-
-<br />
-
-<img src="https://img.shields.io/badge/Branch-main-7C3AED?style=for-the-badge" alt="main" />
-<img src="https://img.shields.io/badge/Commit-cf863b0-16A34A?style=for-the-badge" alt="cf863b0" />
-
-<br /><br />
-
-<a href="https://github.com/Code-Crew-Nexus/.github">Open repository</a> · <a href="https://github.com/Code-Crew-Nexus/.github/commit/cf863b013dcb2ccf61b5047239210a1e9ae7d5cc">View commit</a>
-</td>
-<td width="50%" valign="top">
-<strong>Recent update</strong><br />
-<sub>Apr 04, 2026 · 18:02 UTC</sub>
-
-<br /><br />
-
-<img src="https://img.shields.io/badge/Committer-rajghosh06-dev-111827?style=for-the-badge&logo=github&logoColor=white" alt="rajghosh06-dev" />
-<img src="https://img.shields.io/badge/Repository-articulation-point-analysis-2563EB?style=for-the-badge" alt="articulation-point-analysis" />
-
-<br />
-
-<img src="https://img.shields.io/badge/Branch-main-7C3AED?style=for-the-badge" alt="main" />
-<img src="https://img.shields.io/badge/Commit-1aa7126-16A34A?style=for-the-badge" alt="1aa7126" />
-
-<br /><br />
-
-<a href="https://github.com/Code-Crew-Nexus/articulation-point-analysis">Open repository</a> · <a href="https://github.com/Code-Crew-Nexus/articulation-point-analysis/commit/1aa7126132c5734e2710ebe4d61e5e96e895bfcd">View commit</a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<strong>Recent update</strong><br />
-<sub>Apr 04, 2026 · 17:19 UTC</sub>
-
-<br /><br />
-
-<img src="https://img.shields.io/badge/Committer-rajghosh06-dev-111827?style=for-the-badge&logo=github&logoColor=white" alt="rajghosh06-dev" />
-<img src="https://img.shields.io/badge/Repository-.github-2563EB?style=for-the-badge" alt=".github" />
-
-<br />
-
-<img src="https://img.shields.io/badge/Branch-main-7C3AED?style=for-the-badge" alt="main" />
-<img src="https://img.shields.io/badge/Commit-cf8f705-16A34A?style=for-the-badge" alt="cf8f705" />
-
-<br /><br />
-
-<a href="https://github.com/Code-Crew-Nexus/.github">Open repository</a> · <a href="https://github.com/Code-Crew-Nexus/.github/commit/cf8f70530a2c66aacf0d20c353f58df02a81de43">View commit</a>
-</td>
-<td width="50%" valign="top">
-<strong>Recent update</strong><br />
-<sub>Apr 04, 2026 · 17:13 UTC</sub>
-
-<br /><br />
-
-<img src="https://img.shields.io/badge/Committer-rajghosh06-dev-111827?style=for-the-badge&logo=github&logoColor=white" alt="rajghosh06-dev" />
-<img src="https://img.shields.io/badge/Repository-.github-2563EB?style=for-the-badge" alt=".github" />
-
-<br />
-
-<img src="https://img.shields.io/badge/Branch-main-7C3AED?style=for-the-badge" alt="main" />
-<img src="https://img.shields.io/badge/Commit-d8b1dac-16A34A?style=for-the-badge" alt="d8b1dac" />
-
-<br /><br />
-
-<a href="https://github.com/Code-Crew-Nexus/.github">Open repository</a> · <a href="https://github.com/Code-Crew-Nexus/.github/commit/d8b1dacc5678284fa929435a46d976b1a5673ae9">View commit</a>
 </td>
 </tr>
 </table>
