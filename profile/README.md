@@ -103,11 +103,11 @@ Every project added here should strengthen the story of a team that builds with 
 
 | PROJECT | SUBJECT | STACK | DESCRIPTION | LAST UPDATE | BRANCHES | REPOSITORY |
 | --- | --- | --- | --- | --- | --- | --- |
+| **Online Shopping Website** | TBD | Java, CSS | A Java-based e-commerce web app with user login, product catalog, cart, and checkout using MySQL. | Apr 10, 2026 | `main`<br />`test/readme-structure-docs`<br />`ui` | [`online-shopping-website`](https://github.com/Code-Crew-Nexus/online-shopping-website) |
 | **Binary Tic Tac Toe Game** | CAALP | Assembly | A text-based Tic Tac Toe game implemented in x86 Assembly using MASM, running in DOSBox. | Apr 08, 2026 | `main` | [`binary-tic-tac-toe-game`](https://github.com/Code-Crew-Nexus/binary-tic-tac-toe-game) |
 | **Smart Memory Manager** | OS | C | Smart Memory Manager is a PBL OS project simulating FIFO, LRU, and Optimal page replacement with a browser tab analogy. Built in modular C, it runs cross‑platform, showing tab openings, evictions, and efficiency metrics with reproducible Makefile support. | Apr 08, 2026 | `main` | [`smart-memory-manager`](https://github.com/Code-Crew-Nexus/smart-memory-manager) |
 | **Articulation Point Analysis** | DAA | Java | Design and Analysis of Algorithms (DAA) – Articulation Point Analysis (PBL). A Java CLI project to study network reliability using Tarjan‑style DFS articulation point detection, CSV input, scale‑free graph generation, and optional HTML visualization for interactive analysis. | Apr 06, 2026 | `main` | [`articulation-point-analysis`](https://github.com/Code-Crew-Nexus/articulation-point-analysis) |
 | **Page Replacement Algorithms Analysis** | OS | C | Simulation and analysis of FIFO, LRU, Optimal, and LFU page replacement algorithms with cross-platform Makefile support. | Apr 05, 2026 | `main` | [`page-replacement-algorithms-analysis`](https://github.com/Code-Crew-Nexus/page-replacement-algorithms-analysis) |
-| **Online Shopping Site** | TBD | Java, CSS | Academic repository under active development. | Apr 05, 2026 | `main`<br />`ui` | [`ONLINE-SHOPPING-SITE`](https://github.com/Code-Crew-Nexus/ONLINE-SHOPPING-SITE) |
 
 > This directory is generated from the organization's public repositories and enriched by optional overrides in `data/projects.json`.
 
@@ -167,12 +167,12 @@ Every project added here should strengthen the story of a team that builds with 
 </tr>
 <tr>
 <td width="50%" valign="top">
-<strong><a href="https://github.com/Code-Crew-Nexus/ONLINE-SHOPPING-SITE/commit/bfbb4759752ec02929b64c54308549ac9dfe9918">Merge pull request #4 from Code-Crew-Nexus/ui</a></strong><br />
+<strong><a href="https://github.com/Code-Crew-Nexus/online-shopping-website/commit/bfbb4759752ec02929b64c54308549ac9dfe9918">Merge pull request #4 from Code-Crew-Nexus/ui</a></strong><br />
 <sub>Apr 05, 2026 · 06:46 PM IST</sub>
 
 <br /><br />
 
-<strong>Repository:</strong> <a href="https://github.com/Code-Crew-Nexus/ONLINE-SHOPPING-SITE">ONLINE-SHOPPING-SITE</a><br />
+<strong>Repository:</strong> <a href="https://github.com/Code-Crew-Nexus/online-shopping-website">online-shopping-website</a><br />
 <strong>Committed by:</strong> Saikrishna-dev-oss<br />
 <strong>Branch:</strong> <code>main</code><br />
 <strong>Commit:</strong> <code>bfbb475</code>
@@ -216,20 +216,20 @@ This section is generated from the organization's current public repositories wh
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/ASM-111827?style=for-the-badge&logo=gnuassembler&logoColor=white" alt="Assembly" width="64" height="64" /><br />
-<strong>Assembly</strong>
-</td>
-<td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="64" height="64" /><br />
-<strong>C</strong>
-</td>
-<td align="center" width="25%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="64" height="64" /><br />
 <strong>Java</strong>
 </td>
 <td align="center" width="25%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="64" height="64" /><br />
 <strong>CSS</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/ASM-111827?style=for-the-badge&logo=gnuassembler&logoColor=white" alt="Assembly" width="64" height="64" /><br />
+<strong>Assembly</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="64" height="64" /><br />
+<strong>C</strong>
 </td>
 </tr>
 </table>
