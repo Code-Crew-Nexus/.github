@@ -28,9 +28,9 @@
 
 <br />
 
-<img src="https://img.shields.io/github/stars/Code-Crew-Nexus/.github?style=social" alt="GitHub Stars" />
-<img src="https://img.shields.io/github/forks/Code-Crew-Nexus/.github?style=social" alt="GitHub Forks" />
-<img src="https://img.shields.io/github/watchers/Code-Crew-Nexus/.github?style=social" alt="GitHub Watchers" />
+<img src="https://img.shields.io/github/stars/Code-Crew-Nexus/.github?style=social&cacheSeconds=300" alt="GitHub Stars" />
+<img src="https://img.shields.io/github/forks/Code-Crew-Nexus/.github?style=social&cacheSeconds=300" alt="GitHub Forks" />
+<img src="https://img.shields.io/github/watchers/Code-Crew-Nexus/.github?style=social&cacheSeconds=300" alt="GitHub Watchers" />
 
 </div>
 

@@ -742,9 +742,9 @@ def build_readme(members: list[dict] | list[str], projects: list[dict], repos: l
 
 <br />
 
-<img src="https://img.shields.io/github/stars/{ORG_SLUG}/{PROFILE_REPO}?style=social" alt="GitHub Stars" />
-<img src="https://img.shields.io/github/forks/{ORG_SLUG}/{PROFILE_REPO}?style=social" alt="GitHub Forks" />
-<img src="https://img.shields.io/github/watchers/{ORG_SLUG}/{PROFILE_REPO}?style=social" alt="GitHub Watchers" />
+<img src="https://img.shields.io/github/stars/{ORG_SLUG}/{PROFILE_REPO}?style=social&cacheSeconds=300" alt="GitHub Stars" />
+<img src="https://img.shields.io/github/forks/{ORG_SLUG}/{PROFILE_REPO}?style=social&cacheSeconds=300" alt="GitHub Forks" />
+<img src="https://img.shields.io/github/watchers/{ORG_SLUG}/{PROFILE_REPO}?style=social&cacheSeconds=300" alt="GitHub Watchers" />
 
 </div>
 
