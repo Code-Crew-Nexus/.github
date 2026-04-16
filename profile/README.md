@@ -103,7 +103,7 @@ Every project added here should strengthen the story of a team that builds with 
 
 | PROJECT | SUBJECT | STACK | DESCRIPTION | LAST UPDATE | BRANCHES | REPOSITORY |
 | --- | --- | --- | --- | --- | --- | --- |
-| **Online Shopping Website** | TBD | Java, CSS | A Java-based e-commerce web app with user login, product catalog, cart, and checkout using MySQL. | Apr 10, 2026 | `main`<br />`test/readme-structure-docs`<br />`ui` | [`online-shopping-website`](https://github.com/Code-Crew-Nexus/online-shopping-website) |
+| **Online Shopping Website** | TBD | Java, CSS | A Java-based e-commerce web app with user login, product catalog, cart, and checkout using MySQL. | Apr 16, 2026 | `main`<br />`test/readme-structure-docs`<br />`ui` | [`online-shopping-website`](https://github.com/Code-Crew-Nexus/online-shopping-website) |
 | **Binary Tic Tac Toe Game** | CAALP | Assembly | A text-based Tic Tac Toe game implemented in x86 Assembly using MASM, running in DOSBox. | Apr 08, 2026 | `main` | [`binary-tic-tac-toe-game`](https://github.com/Code-Crew-Nexus/binary-tic-tac-toe-game) |
 | **Smart Memory Manager** | OS | C | Smart Memory Manager is a PBL OS project simulating FIFO, LRU, and Optimal page replacement with a browser tab analogy. Built in modular C, it runs cross‑platform, showing tab openings, evictions, and efficiency metrics with reproducible Makefile support. | Apr 08, 2026 | `main` | [`smart-memory-manager`](https://github.com/Code-Crew-Nexus/smart-memory-manager) |
 | **Articulation Point Analysis** | DAA | Java | Design and Analysis of Algorithms (DAA) – Articulation Point Analysis (PBL). A Java CLI project to study network reliability using Tarjan‑style DFS articulation point detection, CSV input, scale‑free graph generation, and optional HTML visualization for interactive analysis. | Apr 06, 2026 | `main` | [`articulation-point-analysis`](https://github.com/Code-Crew-Nexus/articulation-point-analysis) |
@@ -119,6 +119,17 @@ Every project added here should strengthen the story of a team that builds with 
 <table>
 <tr>
 <td width="50%" valign="top">
+<strong><a href="https://github.com/Code-Crew-Nexus/online-shopping-website/commit/c7680046d498e11a8c2b45e8f064756ac11971aa">Merge pull request #6 from Code-Crew-Nexus/ui</a></strong><br />
+<sub>Apr 16, 2026 · 11:01 PM IST</sub>
+
+<br /><br />
+
+<strong>Repository:</strong> <a href="https://github.com/Code-Crew-Nexus/online-shopping-website">online-shopping-website</a><br />
+<strong>Committed by:</strong> Saikrishna-dev-oss<br />
+<strong>Branch:</strong> <code>main</code><br />
+<strong>Commit:</strong> <code>c768004</code>
+</td>
+<td width="50%" valign="top">
 <strong><a href="https://github.com/Code-Crew-Nexus/binary-tic-tac-toe-game/commit/c9f603899c39c1226506c781a51206e0a884d1b0">Updated WINCHECK.ASM; and BTICTACT.EXE. Also updated the final .exe file. Moves into desired location.</a></strong><br />
 <sub>Apr 08, 2026 · 07:46 PM IST</sub>
 
@@ -129,6 +140,8 @@ Every project added here should strengthen the story of a team that builds with 
 <strong>Branch:</strong> <code>main</code><br />
 <strong>Commit:</strong> <code>c9f6038</code>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <strong><a href="https://github.com/Code-Crew-Nexus/smart-memory-manager/commit/56b947156fd493f380592f9304350e23f97b2c0e">Updated README.md. Also includede the final .exe file.</a></strong><br />
 <sub>Apr 08, 2026 · 12:41 PM IST</sub>
@@ -140,8 +153,6 @@ Every project added here should strengthen the story of a team that builds with 
 <strong>Branch:</strong> <code>main</code><br />
 <strong>Commit:</strong> <code>56b9471</code>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <strong><a href="https://github.com/Code-Crew-Nexus/articulation-point-analysis/commit/a1b7cad6f87e779780c011ec5da1901c37e51fb4">Major Changes: Updated the README.md for it&#x27;s best info.</a></strong><br />
 <sub>Apr 06, 2026 · 12:17 AM IST</sub>
@@ -153,6 +164,8 @@ Every project added here should strengthen the story of a team that builds with 
 <strong>Branch:</strong> <code>main</code><br />
 <strong>Commit:</strong> <code>a1b7cad</code>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <strong><a href="https://github.com/Code-Crew-Nexus/page-replacement-algorithms-analysis/commit/7ae6582ad1bb879cd5646b867c5921ad59a930bc">Minor Change: Made major updates to all the errornous lines within README.md .</a></strong><br />
 <sub>Apr 05, 2026 · 08:41 PM IST</sub>
@@ -163,19 +176,6 @@ Every project added here should strengthen the story of a team that builds with 
 <strong>Committed by:</strong> rajghosh06-dev<br />
 <strong>Branch:</strong> <code>main</code><br />
 <strong>Commit:</strong> <code>7ae6582</code>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<strong><a href="https://github.com/Code-Crew-Nexus/online-shopping-website/commit/bfbb4759752ec02929b64c54308549ac9dfe9918">Merge pull request #4 from Code-Crew-Nexus/ui</a></strong><br />
-<sub>Apr 05, 2026 · 06:46 PM IST</sub>
-
-<br /><br />
-
-<strong>Repository:</strong> <a href="https://github.com/Code-Crew-Nexus/online-shopping-website">online-shopping-website</a><br />
-<strong>Committed by:</strong> Saikrishna-dev-oss<br />
-<strong>Branch:</strong> <code>main</code><br />
-<strong>Commit:</strong> <code>bfbb475</code>
 </td>
 <td width="50%" valign="top">&nbsp;</td>
 </tr>
