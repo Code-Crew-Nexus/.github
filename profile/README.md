@@ -103,7 +103,7 @@ Every project added here should strengthen the story of a team that builds with 
 
 | PROJECT | SUBJECT | STACK | DESCRIPTION | LAST UPDATE | BRANCHES | REPOSITORY |
 | --- | --- | --- | --- | --- | --- | --- |
-| **Online Shopping Website** | TBD | Java, CSS | A Java-based e-commerce web app with user login, product catalog, cart, and checkout using MySQL. | Apr 17, 2026 | `main`<br />`test/readme-structure-docs`<br />`ui` | [`online-shopping-website`](https://github.com/Code-Crew-Nexus/online-shopping-website) |
+| **Online Shopping Website** | TBD | Java, CSS | A Java-based e-commerce web app with user login, product catalog, cart, and checkout using MySQL. | Apr 17, 2026 | `main`<br />`ui`<br />`upgrade/FlipZon-shopping` | [`online-shopping-website`](https://github.com/Code-Crew-Nexus/online-shopping-website) |
 | **Binary Tic Tac Toe Game** | CAALP | Assembly | A text-based Tic Tac Toe game implemented in x86 Assembly using MASM, running in DOSBox. | Apr 08, 2026 | `main` | [`binary-tic-tac-toe-game`](https://github.com/Code-Crew-Nexus/binary-tic-tac-toe-game) |
 | **Smart Memory Manager** | OS | C | Smart Memory Manager is a PBL OS project simulating FIFO, LRU, and Optimal page replacement with a browser tab analogy. Built in modular C, it runs cross‑platform, showing tab openings, evictions, and efficiency metrics with reproducible Makefile support. | Apr 08, 2026 | `main` | [`smart-memory-manager`](https://github.com/Code-Crew-Nexus/smart-memory-manager) |
 | **Articulation Point Analysis** | DAA | Java | Design and Analysis of Algorithms (DAA) – Articulation Point Analysis (PBL). A Java CLI project to study network reliability using Tarjan‑style DFS articulation point detection, CSV input, scale‑free graph generation, and optional HTML visualization for interactive analysis. | Apr 06, 2026 | `main` | [`articulation-point-analysis`](https://github.com/Code-Crew-Nexus/articulation-point-analysis) |
@@ -119,15 +119,15 @@ Every project added here should strengthen the story of a team that builds with 
 <table>
 <tr>
 <td width="50%" valign="top">
-<strong><a href="https://github.com/Code-Crew-Nexus/online-shopping-website/commit/10708de296d9600f57b01a814a8a3501c7de3a1c">chore: ignore IntelliJ metadata and untrack .idea files</a></strong><br />
-<sub>Apr 17, 2026 · 10:53 AM IST</sub>
+<strong><a href="https://github.com/Code-Crew-Nexus/online-shopping-website/commit/85a63a8300955f2bf13d0ceb956e5be67f93eee8">Update README.md</a></strong><br />
+<sub>Apr 17, 2026 · 10:03 PM IST</sub>
 
 <br /><br />
 
 <strong>Repository:</strong> <a href="https://github.com/Code-Crew-Nexus/online-shopping-website">online-shopping-website</a><br />
-<strong>Committed by:</strong> Saikrishna-dev-oss<br />
+<strong>Committed by:</strong> metrinaveen08<br />
 <strong>Branch:</strong> <code>main</code><br />
-<strong>Commit:</strong> <code>10708de</code>
+<strong>Commit:</strong> <code>85a63a8</code>
 </td>
 <td width="50%" valign="top">
 <strong><a href="https://github.com/Code-Crew-Nexus/binary-tic-tac-toe-game/commit/c9f603899c39c1226506c781a51206e0a884d1b0">Updated WINCHECK.ASM; and BTICTACT.EXE. Also updated the final .exe file. Moves into desired location.</a></strong><br />
