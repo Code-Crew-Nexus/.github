@@ -13,5 +13,15 @@
     "repo_name": "binary-tic-tac-toe-game",
     "project": "Binary Tic Tac Toe Game",
     "subject": "CAALP"
+  },
+  {
+    "repo_name": "online-shopping-website",
+    "project": "Online Shopping Website",
+    "subject": "WT"
+  },
+  {
+    "repo_name": "PawsConnectHub",
+    "project": "Paws Connect Hub",
+    "subject": "WT"
   }
 ]
