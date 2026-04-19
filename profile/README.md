@@ -32,6 +32,10 @@
 <img src="https://img.shields.io/github/forks/Code-Crew-Nexus/.github?style=social&cacheSeconds=300" alt="GitHub Forks" />
 <img src="https://img.shields.io/github/watchers/Code-Crew-Nexus/.github?style=social&cacheSeconds=300" alt="GitHub Watchers" />
 
+<br />
+
+<img src="https://img.shields.io/badge/Last%20Updated-Apr%2019%2C%202026-111827?style=for-the-badge" alt="Last Updated" />
+
 </div>
 
 <br />
@@ -235,11 +239,11 @@ This section is generated from the organization's current public repositories wh
 <strong>Java</strong>
 </td>
 <td align="center" width="20%">
-<img src="https://img.shields.io/badge/Shell-Stack-111827?style=for-the-badge&logo=github&logoColor=white" alt="Shell" width="64" height="64" /><br />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Shell" width="64" height="64" /><br />
 <strong>Shell</strong>
 </td>
 <td align="center" width="20%">
-<img src="https://img.shields.io/badge/Batchfile-Stack-111827?style=for-the-badge&logo=github&logoColor=white" alt="Batchfile" width="64" height="64" /><br />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" alt="Batchfile" width="64" height="64" /><br />
 <strong>Batchfile</strong>
 </td>
 <td align="center" width="20%">

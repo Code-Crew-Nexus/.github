@@ -3,7 +3,10 @@ name: Sync Organization Profile README
 on:
   workflow_dispatch:
   schedule:
-    - cron: '17 */4 * * *'
+    - cron: '18 0,3,6,9,12,13,15,18,21 * * *'
+      timezone: 'Asia/Kolkata'
+    - cron: '0 0 * * *'
+      timezone: 'Asia/Kolkata'
   push:
     paths:
       - 'data/members.json'

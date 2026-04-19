@@ -24,6 +24,10 @@ INDIA_TZ = timezone(timedelta(hours=5, minutes=30), name="IST")
 ACRONYMS = {"AI", "ML", "DBMS", "DAA", "OOP", "OOPS", "UI", "UX", "API"}
 GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN", "").strip()
 
+
+def normalize_icon_key(name: str) -> str:
+    return re.sub(r"[^a-z0-9]+", "", name.casefold())
+
 LANGUAGE_ICON_MAP = {
     "Assembly": "https://img.shields.io/badge/ASM-111827?style=for-the-badge&logo=gnuassembler&logoColor=white",
     "C": "https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg",
@@ -38,7 +42,25 @@ LANGUAGE_ICON_MAP = {
     "MySQL": "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg",
     "Python": "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg",
     "SQL": "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg",
+    "Shell": "https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg",
+    "Batchfile": "https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg",
     "TypeScript": "https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg",
+}
+
+LANGUAGE_ICON_ALIASES = {
+    "bash": "Shell",
+    "batch": "Batchfile",
+    "batchfile": "Batchfile",
+    "batchfiles": "Batchfile",
+    "cmd": "Batchfile",
+    "msdos": "Batchfile",
+    "powershell": "PowerShell",
+    "shell": "Shell",
+}
+
+LANGUAGE_ICON_LOOKUP = {
+    normalize_icon_key(name): icon_url
+    for name, icon_url in LANGUAGE_ICON_MAP.items()
 }
 
 FRAMEWORK_ICON_MAP = {
@@ -608,6 +630,13 @@ def render_recent_commits(commits: list[dict]) -> str:
 
 
 def icon_for(name: str, icon_map: dict[str, str]) -> str:
+    normalized_name = normalize_icon_key(name)
+    resolved_name = LANGUAGE_ICON_ALIASES.get(normalized_name, name)
+    resolved_key = normalize_icon_key(resolved_name)
+
+    if resolved_key in LANGUAGE_ICON_LOOKUP:
+        return LANGUAGE_ICON_LOOKUP[resolved_key]
+
     if name in icon_map:
         return icon_map[name]
     return badge(name, "Stack", "111827", logo="github", logo_color="white")
@@ -642,14 +671,17 @@ def render_icon_table(items: list[tuple[str, str]], columns: int = 5) -> str:
 
 def build_tech_specs(repos: list[dict]) -> dict[str, list]:
     languages_seen: list[str] = []
+    languages_seen_keys: set[str] = set()
     frameworks_seen: list[str] = []
 
     for repo in repos:
         language_map = repo.get("language_map") or {}
         for language in language_map:
-            if language in IGNORED_LANGUAGE_NAMES or language in languages_seen:
+            normalized_language = normalize_icon_key(language)
+            if language in IGNORED_LANGUAGE_NAMES or normalized_language in languages_seen_keys:
                 continue
             languages_seen.append(language)
+            languages_seen_keys.add(normalized_language)
 
         for framework in detect_frameworks(repo, repo.get("readme_text", "")):
             if framework not in frameworks_seen:
@@ -658,8 +690,10 @@ def build_tech_specs(repos: list[dict]) -> dict[str, list]:
     if not languages_seen:
         primary_languages = [repo.get("language") for repo in repos if repo.get("language")]
         for language in primary_languages:
-            if language not in languages_seen and language not in IGNORED_LANGUAGE_NAMES:
+            normalized_language = normalize_icon_key(language)
+            if language not in languages_seen and language not in IGNORED_LANGUAGE_NAMES and normalized_language not in languages_seen_keys:
                 languages_seen.append(language)
+                languages_seen_keys.add(normalized_language)
 
     language_cards = [(language, icon_for(language, LANGUAGE_ICON_MAP)) for language in languages_seen[:10]]
     framework_cards = [(framework, icon_for(framework, FRAMEWORK_ICON_MAP)) for framework in frameworks_seen[:8]]
@@ -711,6 +745,8 @@ def build_readme(members: list[dict] | list[str], projects: list[dict], repos: l
     projects_table = render_projects_table(project_rows)
     recent_commits_section = render_recent_commits(recent_commits)
     tech_specs_section = render_tech_specs(repos)
+    generated_at = datetime.now(INDIA_TZ)
+    last_updated_label = generated_at.strftime("%b %d, %Y")
 
     return f'''<!-- THIS FILE IS GENERATED. Edit data/members.json and data/projects.json, then run python generate_readme.py. -->
 
@@ -745,6 +781,10 @@ def build_readme(members: list[dict] | list[str], projects: list[dict], repos: l
 <img src="https://img.shields.io/github/stars/{ORG_SLUG}/{PROFILE_REPO}?style=social&cacheSeconds=300" alt="GitHub Stars" />
 <img src="https://img.shields.io/github/forks/{ORG_SLUG}/{PROFILE_REPO}?style=social&cacheSeconds=300" alt="GitHub Forks" />
 <img src="https://img.shields.io/github/watchers/{ORG_SLUG}/{PROFILE_REPO}?style=social&cacheSeconds=300" alt="GitHub Watchers" />
+
+<br />
+
+<img src="https://img.shields.io/badge/Last%20Updated-{urllib.parse.quote(last_updated_label, safe='')}-111827?style=for-the-badge" alt="Last Updated" />
 
 </div>
 
