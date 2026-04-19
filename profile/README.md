@@ -28,13 +28,13 @@
 
 <br />
 
-<img src="https://img.shields.io/github/stars/Code-Crew-Nexus/.github?style=social&cacheSeconds=300" alt="GitHub Stars" />
-<img src="https://img.shields.io/github/forks/Code-Crew-Nexus/.github?style=social&cacheSeconds=300" alt="GitHub Forks" />
-<img src="https://img.shields.io/github/watchers/Code-Crew-Nexus/.github?style=social&cacheSeconds=300" alt="GitHub Watchers" />
+<img src="https://img.shields.io/badge/Last%20Updated-Apr%2019%2C%202026-111827?style=for-the-badge" alt="Last Updated" />
 
 <br />
 
-<img src="https://img.shields.io/badge/Last%20Updated-Apr%2019%2C%202026-111827?style=for-the-badge" alt="Last Updated" />
+<img src="https://img.shields.io/github/stars/Code-Crew-Nexus/.github?style=social&cacheSeconds=300" alt="GitHub Stars" />
+<img src="https://img.shields.io/github/forks/Code-Crew-Nexus/.github?style=social&cacheSeconds=300" alt="GitHub Forks" />
+<img src="https://img.shields.io/github/watchers/Code-Crew-Nexus/.github?style=social&cacheSeconds=300" alt="GitHub Watchers" />
 
 </div>
 
