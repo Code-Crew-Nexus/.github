@@ -107,7 +107,7 @@ Every project added here should strengthen the story of a team that builds with 
 
 | PROJECT | SUBJECT | STACK | DESCRIPTION | LAST UPDATE | BRANCHES | REPOSITORY |
 | --- | --- | --- | --- | --- | --- | --- |
-| **Paws Connect Hub** | WT | HTML, Java, Shell | Java Servlet + JSP web application with MySQL backend. Features user login, marketplace, community posts, and admin oversight. | Apr 19, 2026 | `main` | [`PawsConnectHub`](https://github.com/Code-Crew-Nexus/PawsConnectHub) |
+| **Paws Connect Hub** | WT | HTML, Java, Shell | Java Servlet + JSP web application with MySQL backend. Features user login, marketplace, community posts, and admin oversight. | Apr 20, 2026 | `main` | [`PawsConnectHub`](https://github.com/Code-Crew-Nexus/PawsConnectHub) |
 | **Online Shopping Website** | WT | Java, CSS | A Java-based e-commerce web app with user login, product catalog, cart, and checkout using MySQL. | Apr 18, 2026 | `main`<br />`ui`<br />`upgrade/FlipZon-shopping` | [`online-shopping-website`](https://github.com/Code-Crew-Nexus/online-shopping-website) |
 | **Binary Tic Tac Toe Game** | CAALP | Assembly | A text-based Tic Tac Toe game implemented in x86 Assembly using MASM, running in DOSBox. | Apr 08, 2026 | `main` | [`binary-tic-tac-toe-game`](https://github.com/Code-Crew-Nexus/binary-tic-tac-toe-game) |
 | **Smart Memory Manager** | OS | C | Smart Memory Manager is a PBL OS project simulating FIFO, LRU, and Optimal page replacement with a browser tab analogy. Built in modular C, it runs cross‑platform, showing tab openings, evictions, and efficiency metrics with reproducible Makefile support. | Apr 08, 2026 | `main` | [`smart-memory-manager`](https://github.com/Code-Crew-Nexus/smart-memory-manager) |
@@ -124,15 +124,15 @@ Every project added here should strengthen the story of a team that builds with 
 <table>
 <tr>
 <td width="50%" valign="top">
-<strong><a href="https://github.com/Code-Crew-Nexus/PawsConnectHub/commit/c1fb342c88e7950d76f77b9207461d8ddee54c0b">Add MIT License to the project</a></strong><br />
-<sub>Apr 19, 2026 · 11:37 AM IST</sub>
+<strong><a href="https://github.com/Code-Crew-Nexus/PawsConnectHub/commit/ad5b4b9de99f8dcef81fbf70fbd402f2bf76d73f">removed target folder</a></strong><br />
+<sub>Apr 20, 2026 · 03:36 AM IST</sub>
 
 <br /><br />
 
 <strong>Repository:</strong> <a href="https://github.com/Code-Crew-Nexus/PawsConnectHub">PawsConnectHub</a><br />
-<strong>Committed by:</strong> rajghosh06-dev<br />
+<strong>Committed by:</strong> Starcloud-retro<br />
 <strong>Branch:</strong> <code>main</code><br />
-<strong>Commit:</strong> <code>c1fb342</code>
+<strong>Commit:</strong> <code>ad5b4b9</code>
 </td>
 <td width="50%" valign="top">
 <strong><a href="https://github.com/Code-Crew-Nexus/online-shopping-website/commit/85a63a8300955f2bf13d0ceb956e5be67f93eee8">Update README.md</a></strong><br />
