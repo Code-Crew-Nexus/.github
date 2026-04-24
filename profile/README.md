@@ -107,6 +107,7 @@ Every project added here should strengthen the story of a team that builds with 
 
 | PROJECT | SUBJECT | STACK | DESCRIPTION | LAST UPDATE | BRANCHES | REPOSITORY |
 | --- | --- | --- | --- | --- | --- | --- |
+| **Cognitive Load** | TBD | JavaScript, Python, CSS | Cognitive Load is an educational project. | Apr 24, 2026 | `main` | [`cognitive-load`](https://github.com/Code-Crew-Nexus/cognitive-load) |
 | **Paws Connect Hub** | WT | HTML, Java, Shell | Java Servlet + JSP web application with MySQL backend. Features user login, marketplace, community posts, and admin oversight. | Apr 21, 2026 | `main` | [`PawsConnectHub`](https://github.com/Code-Crew-Nexus/PawsConnectHub) |
 | **Online Shopping Website** | WT | Java, CSS | A Java-based e-commerce web app with user login, product catalog, cart, and checkout using MySQL. | Apr 18, 2026 | `main`<br />`ui`<br />`upgrade/FlipZon-shopping` | [`online-shopping-website`](https://github.com/Code-Crew-Nexus/online-shopping-website) |
 | **Binary Tic Tac Toe Game** | CAALP | Assembly | A text-based Tic Tac Toe game implemented in x86 Assembly using MASM, running in DOSBox. | Apr 08, 2026 | `main` | [`binary-tic-tac-toe-game`](https://github.com/Code-Crew-Nexus/binary-tic-tac-toe-game) |
@@ -124,6 +125,17 @@ Every project added here should strengthen the story of a team that builds with 
 <table>
 <tr>
 <td width="50%" valign="top">
+<strong><a href="https://github.com/Code-Crew-Nexus/cognitive-load/commit/1a3f13ce476cd04d1d090d419d10937f63a1a1df">update: updated README.md</a></strong><br />
+<sub>Apr 24, 2026 · 09:29 PM IST</sub>
+
+<br /><br />
+
+<strong>Repository:</strong> <a href="https://github.com/Code-Crew-Nexus/cognitive-load">cognitive-load</a><br />
+<strong>Committed by:</strong> karthik10-dev<br />
+<strong>Branch:</strong> <code>main</code><br />
+<strong>Commit:</strong> <code>1a3f13c</code>
+</td>
+<td width="50%" valign="top">
 <strong><a href="https://github.com/Code-Crew-Nexus/PawsConnectHub/commit/4c892b79a27b2fdda79d404475e4904b8d3ac8a2">Finalised model</a></strong><br />
 <sub>Apr 21, 2026 · 05:00 PM IST</sub>
 
@@ -134,6 +146,8 @@ Every project added here should strengthen the story of a team that builds with 
 <strong>Branch:</strong> <code>main</code><br />
 <strong>Commit:</strong> <code>4c892b7</code>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <strong><a href="https://github.com/Code-Crew-Nexus/online-shopping-website/commit/85a63a8300955f2bf13d0ceb956e5be67f93eee8">Update README.md</a></strong><br />
 <sub>Apr 17, 2026 · 10:03 PM IST</sub>
@@ -145,8 +159,6 @@ Every project added here should strengthen the story of a team that builds with 
 <strong>Branch:</strong> <code>main</code><br />
 <strong>Commit:</strong> <code>85a63a8</code>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <strong><a href="https://github.com/Code-Crew-Nexus/binary-tic-tac-toe-game/commit/c9f603899c39c1226506c781a51206e0a884d1b0">Updated WINCHECK.ASM; and BTICTACT.EXE. Also updated the final .exe file. Moves into desired location.</a></strong><br />
 <sub>Apr 08, 2026 · 07:46 PM IST</sub>
@@ -158,6 +170,8 @@ Every project added here should strengthen the story of a team that builds with 
 <strong>Branch:</strong> <code>main</code><br />
 <strong>Commit:</strong> <code>c9f6038</code>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <strong><a href="https://github.com/Code-Crew-Nexus/smart-memory-manager/commit/56b947156fd493f380592f9304350e23f97b2c0e">Updated README.md. Also includede the final .exe file.</a></strong><br />
 <sub>Apr 08, 2026 · 12:41 PM IST</sub>
@@ -169,8 +183,6 @@ Every project added here should strengthen the story of a team that builds with 
 <strong>Branch:</strong> <code>main</code><br />
 <strong>Commit:</strong> <code>56b9471</code>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <strong><a href="https://github.com/Code-Crew-Nexus/articulation-point-analysis/commit/a1b7cad6f87e779780c011ec5da1901c37e51fb4">Major Changes: Updated the README.md for it&#x27;s best info.</a></strong><br />
 <sub>Apr 06, 2026 · 12:17 AM IST</sub>
@@ -181,17 +193,6 @@ Every project added here should strengthen the story of a team that builds with 
 <strong>Committed by:</strong> rajghosh06-dev<br />
 <strong>Branch:</strong> <code>main</code><br />
 <strong>Commit:</strong> <code>a1b7cad</code>
-</td>
-<td width="50%" valign="top">
-<strong><a href="https://github.com/Code-Crew-Nexus/page-replacement-algorithms-analysis/commit/7ae6582ad1bb879cd5646b867c5921ad59a930bc">Minor Change: Made major updates to all the errornous lines within README.md .</a></strong><br />
-<sub>Apr 05, 2026 · 08:41 PM IST</sub>
-
-<br /><br />
-
-<strong>Repository:</strong> <a href="https://github.com/Code-Crew-Nexus/page-replacement-algorithms-analysis">page-replacement-algorithms-analysis</a><br />
-<strong>Committed by:</strong> rajghosh06-dev<br />
-<strong>Branch:</strong> <code>main</code><br />
-<strong>Commit:</strong> <code>7ae6582</code>
 </td>
 </tr>
 </table>
@@ -231,6 +232,18 @@ This section is generated from the organization's current public repositories wh
 <table>
 <tr>
 <td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="64" height="64" /><br />
+<strong>JavaScript</strong>
+</td>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="64" height="64" /><br />
+<strong>Python</strong>
+</td>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="64" height="64" /><br />
+<strong>CSS</strong>
+</td>
+<td align="center" width="20%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="64" height="64" /><br />
 <strong>HTML</strong>
 </td>
@@ -238,32 +251,24 @@ This section is generated from the organization's current public repositories wh
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="64" height="64" /><br />
 <strong>Java</strong>
 </td>
-<td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Shell" width="64" height="64" /><br />
-<strong>Shell</strong>
-</td>
-<td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" alt="Batchfile" width="64" height="64" /><br />
-<strong>Batchfile</strong>
-</td>
-<td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="64" height="64" /><br />
-<strong>JavaScript</strong>
-</td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="64" height="64" /><br />
-<strong>CSS</strong>
+<td align="center" width="25%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Shell" width="64" height="64" /><br />
+<strong>Shell</strong>
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" alt="Batchfile" width="64" height="64" /><br />
+<strong>Batchfile</strong>
+</td>
+<td align="center" width="25%">
 <img src="https://img.shields.io/badge/ASM-111827?style=for-the-badge&logo=gnuassembler&logoColor=white" alt="Assembly" width="64" height="64" /><br />
 <strong>Assembly</strong>
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C" width="64" height="64" /><br />
 <strong>C</strong>
 </td>
