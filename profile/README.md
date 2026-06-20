@@ -110,6 +110,7 @@ Every project added here should strengthen the story of a team that builds with 
 | **Cognitive Load** | TBD | JavaScript, Python, CSS | Cognitive Load is an educational project. | Apr 24, 2026 | `main` | [`cognitive-load`](https://github.com/Code-Crew-Nexus/cognitive-load) |
 | **Paws Connect Hub** | WT | HTML, Java, Shell | Java Servlet + JSP web application with MySQL backend. Features user login, marketplace, community posts, and admin oversight. | Apr 21, 2026 | `main` | [`PawsConnectHub`](https://github.com/Code-Crew-Nexus/PawsConnectHub) |
 | **Online Shopping Website** | WT | Java, CSS | A Java-based e-commerce web app with user login, product catalog, cart, and checkout using MySQL. | Apr 18, 2026 | `main`<br />`ui`<br />`upgrade/FlipZon-shopping` | [`online-shopping-website`](https://github.com/Code-Crew-Nexus/online-shopping-website) |
+| **Pawsconnect** | TBD | HTML | PawsConnect is a modern platform designed to bring together animal lovers, responsible sellers, and caring buyers in one safe, engaging community. | Apr 11, 2026 | `main` | [`pawsconnect`](https://github.com/Code-Crew-Nexus/pawsconnect) |
 | **Binary Tic Tac Toe Game** | CAALP | Assembly | A text-based Tic Tac Toe game implemented in x86 Assembly using MASM, running in DOSBox. | Apr 08, 2026 | `main` | [`binary-tic-tac-toe-game`](https://github.com/Code-Crew-Nexus/binary-tic-tac-toe-game) |
 | **Smart Memory Manager** | OS | C | Smart Memory Manager is a PBL OS project simulating FIFO, LRU, and Optimal page replacement with a browser tab analogy. Built in modular C, it runs cross‑platform, showing tab openings, evictions, and efficiency metrics with reproducible Makefile support. | Apr 08, 2026 | `main` | [`smart-memory-manager`](https://github.com/Code-Crew-Nexus/smart-memory-manager) |
 | **Articulation Point Analysis** | DAA | Java | Design and Analysis of Algorithms (DAA) – Articulation Point Analysis (PBL). A Java CLI project to study network reliability using Tarjan‑style DFS articulation point detection, CSV input, scale‑free graph generation, and optional HTML visualization for interactive analysis. | Apr 06, 2026 | `main` | [`articulation-point-analysis`](https://github.com/Code-Crew-Nexus/articulation-point-analysis) |
@@ -160,6 +161,19 @@ Every project added here should strengthen the story of a team that builds with 
 <strong>Commit:</strong> <code>85a63a8</code>
 </td>
 <td width="50%" valign="top">
+<strong><a href="https://github.com/Code-Crew-Nexus/pawsconnect/commit/df520c6e56129e28d49bab76c83c65396efc9e2c">tried new LOGIN</a></strong><br />
+<sub>Apr 11, 2026 · 01:09 AM IST</sub>
+
+<br /><br />
+
+<strong>Repository:</strong> <a href="https://github.com/Code-Crew-Nexus/pawsconnect">pawsconnect</a><br />
+<strong>Committed by:</strong> Starcloud-retro<br />
+<strong>Branch:</strong> <code>main</code><br />
+<strong>Commit:</strong> <code>df520c6</code>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <strong><a href="https://github.com/Code-Crew-Nexus/binary-tic-tac-toe-game/commit/c9f603899c39c1226506c781a51206e0a884d1b0">Updated WINCHECK.ASM; and BTICTACT.EXE. Also updated the final .exe file. Moves into desired location.</a></strong><br />
 <sub>Apr 08, 2026 · 07:46 PM IST</sub>
 
@@ -170,8 +184,6 @@ Every project added here should strengthen the story of a team that builds with 
 <strong>Branch:</strong> <code>main</code><br />
 <strong>Commit:</strong> <code>c9f6038</code>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <strong><a href="https://github.com/Code-Crew-Nexus/smart-memory-manager/commit/56b947156fd493f380592f9304350e23f97b2c0e">Updated README.md. Also includede the final .exe file.</a></strong><br />
 <sub>Apr 08, 2026 · 12:41 PM IST</sub>
@@ -182,17 +194,6 @@ Every project added here should strengthen the story of a team that builds with 
 <strong>Committed by:</strong> rajghosh06-dev<br />
 <strong>Branch:</strong> <code>main</code><br />
 <strong>Commit:</strong> <code>56b9471</code>
-</td>
-<td width="50%" valign="top">
-<strong><a href="https://github.com/Code-Crew-Nexus/articulation-point-analysis/commit/a1b7cad6f87e779780c011ec5da1901c37e51fb4">Major Changes: Updated the README.md for it&#x27;s best info.</a></strong><br />
-<sub>Apr 06, 2026 · 12:17 AM IST</sub>
-
-<br /><br />
-
-<strong>Repository:</strong> <a href="https://github.com/Code-Crew-Nexus/articulation-point-analysis">articulation-point-analysis</a><br />
-<strong>Committed by:</strong> rajghosh06-dev<br />
-<strong>Branch:</strong> <code>main</code><br />
-<strong>Commit:</strong> <code>a1b7cad</code>
 </td>
 </tr>
 </table>
