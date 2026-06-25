@@ -107,9 +107,9 @@ Every project added here should strengthen the story of a team that builds with 
 
 | PROJECT | SUBJECT | STACK | DESCRIPTION | LAST UPDATE | BRANCHES | REPOSITORY |
 | --- | --- | --- | --- | --- | --- | --- |
+| **Online Shopping Website** | WT | Java, CSS | A Java-based e-commerce web app with user login, product catalog, cart, and checkout using MySQL. | Jun 25, 2026 | `main`<br />`ui`<br />`upgrade/FlipZon-shopping` | [`online-shopping-website`](https://github.com/Code-Crew-Nexus/online-shopping-website) |
 | **Cognitive Load** | TBD | JavaScript, Python, CSS | Cognitive Load is an educational project. | Apr 24, 2026 | `main` | [`cognitive-load`](https://github.com/Code-Crew-Nexus/cognitive-load) |
 | **Paws Connect Hub** | WT | HTML, Java, Shell | Java Servlet + JSP web application with MySQL backend. Features user login, marketplace, community posts, and admin oversight. | Apr 21, 2026 | `main` | [`PawsConnectHub`](https://github.com/Code-Crew-Nexus/PawsConnectHub) |
-| **Online Shopping Website** | WT | Java, CSS | A Java-based e-commerce web app with user login, product catalog, cart, and checkout using MySQL. | Apr 18, 2026 | `main`<br />`ui`<br />`upgrade/FlipZon-shopping` | [`online-shopping-website`](https://github.com/Code-Crew-Nexus/online-shopping-website) |
 | **Pawsconnect** | TBD | HTML | PawsConnect is a modern platform designed to bring together animal lovers, responsible sellers, and caring buyers in one safe, engaging community. | Apr 11, 2026 | `main` | [`pawsconnect`](https://github.com/Code-Crew-Nexus/pawsconnect) |
 | **Binary Tic Tac Toe Game** | CAALP | Assembly | A text-based Tic Tac Toe game implemented in x86 Assembly using MASM, running in DOSBox. | Apr 08, 2026 | `main` | [`binary-tic-tac-toe-game`](https://github.com/Code-Crew-Nexus/binary-tic-tac-toe-game) |
 | **Smart Memory Manager** | OS | C | Smart Memory Manager is a PBL OS project simulating FIFO, LRU, and Optimal page replacement with a browser tab analogy. Built in modular C, it runs cross‑platform, showing tab openings, evictions, and efficiency metrics with reproducible Makefile support. | Apr 08, 2026 | `main` | [`smart-memory-manager`](https://github.com/Code-Crew-Nexus/smart-memory-manager) |
@@ -126,6 +126,17 @@ Every project added here should strengthen the story of a team that builds with 
 <table>
 <tr>
 <td width="50%" valign="top">
+<strong><a href="https://github.com/Code-Crew-Nexus/online-shopping-website/commit/23d42b397bfb4774561ca969d4e0ad6cc448372f">Update contributor name</a></strong><br />
+<sub>Jun 25, 2026 · 10:36 PM IST</sub>
+
+<br /><br />
+
+<strong>Repository:</strong> <a href="https://github.com/Code-Crew-Nexus/online-shopping-website">online-shopping-website</a><br />
+<strong>Committed by:</strong> Saikrishna-dev-oss<br />
+<strong>Branch:</strong> <code>main</code><br />
+<strong>Commit:</strong> <code>23d42b3</code>
+</td>
+<td width="50%" valign="top">
 <strong><a href="https://github.com/Code-Crew-Nexus/cognitive-load/commit/1a3f13ce476cd04d1d090d419d10937f63a1a1df">update: updated README.md</a></strong><br />
 <sub>Apr 24, 2026 · 09:29 PM IST</sub>
 
@@ -136,6 +147,8 @@ Every project added here should strengthen the story of a team that builds with 
 <strong>Branch:</strong> <code>main</code><br />
 <strong>Commit:</strong> <code>1a3f13c</code>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <strong><a href="https://github.com/Code-Crew-Nexus/PawsConnectHub/commit/4c892b79a27b2fdda79d404475e4904b8d3ac8a2">Finalised model</a></strong><br />
 <sub>Apr 21, 2026 · 05:00 PM IST</sub>
@@ -146,19 +159,6 @@ Every project added here should strengthen the story of a team that builds with 
 <strong>Committed by:</strong> Starcloud-retro<br />
 <strong>Branch:</strong> <code>main</code><br />
 <strong>Commit:</strong> <code>4c892b7</code>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<strong><a href="https://github.com/Code-Crew-Nexus/online-shopping-website/commit/85a63a8300955f2bf13d0ceb956e5be67f93eee8">Update README.md</a></strong><br />
-<sub>Apr 17, 2026 · 10:03 PM IST</sub>
-
-<br /><br />
-
-<strong>Repository:</strong> <a href="https://github.com/Code-Crew-Nexus/online-shopping-website">online-shopping-website</a><br />
-<strong>Committed by:</strong> metrinaveen08<br />
-<strong>Branch:</strong> <code>main</code><br />
-<strong>Commit:</strong> <code>85a63a8</code>
 </td>
 <td width="50%" valign="top">
 <strong><a href="https://github.com/Code-Crew-Nexus/pawsconnect/commit/df520c6e56129e28d49bab76c83c65396efc9e2c">tried new LOGIN</a></strong><br />
@@ -233,6 +233,14 @@ This section is generated from the organization's current public repositories wh
 <table>
 <tr>
 <td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="64" height="64" /><br />
+<strong>Java</strong>
+</td>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="64" height="64" /><br />
+<strong>CSS</strong>
+</td>
+<td align="center" width="20%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="64" height="64" /><br />
 <strong>JavaScript</strong>
 </td>
@@ -241,16 +249,8 @@ This section is generated from the organization's current public repositories wh
 <strong>Python</strong>
 </td>
 <td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="64" height="64" /><br />
-<strong>CSS</strong>
-</td>
-<td align="center" width="20%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="64" height="64" /><br />
 <strong>HTML</strong>
-</td>
-<td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="64" height="64" /><br />
-<strong>Java</strong>
 </td>
 </tr>
 </table>
