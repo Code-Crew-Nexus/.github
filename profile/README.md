@@ -28,7 +28,7 @@
 
 <br />
 
-<img src="https://img.shields.io/badge/Last%20Updated-Apr%2019%2C%202026-111827?style=for-the-badge" alt="Last Updated" />
+<img src="https://img.shields.io/badge/Last%20Updated-Jul%2001%2C%202026-111827?style=for-the-badge" alt="Last Updated" />
 
 <br />
 
@@ -107,8 +107,10 @@ Every project added here should strengthen the story of a team that builds with 
 
 | PROJECT | SUBJECT | STACK | DESCRIPTION | LAST UPDATE | BRANCHES | REPOSITORY |
 | --- | --- | --- | --- | --- | --- | --- |
-| **Paws Connect Hub** | WT | HTML, Java, Shell | Java Servlet + JSP web application with MySQL backend. Features user login, marketplace, community posts, and admin oversight. | Apr 19, 2026 | `main` | [`PawsConnectHub`](https://github.com/Code-Crew-Nexus/PawsConnectHub) |
-| **Online Shopping Website** | WT | Java, CSS | A Java-based e-commerce web app with user login, product catalog, cart, and checkout using MySQL. | Apr 18, 2026 | `main`<br />`ui`<br />`upgrade/FlipZon-shopping` | [`online-shopping-website`](https://github.com/Code-Crew-Nexus/online-shopping-website) |
+| **Online Shopping Website** | WT | Java, CSS | A Java-based e-commerce web app with user login, product catalog, cart, and checkout using MySQL. | Jun 25, 2026 | `main`<br />`ui`<br />`upgrade/FlipZon-shopping` | [`online-shopping-website`](https://github.com/Code-Crew-Nexus/online-shopping-website) |
+| **Cognitive Load** | TBD | JavaScript, Python, CSS | Cognitive Load is an educational project. | Apr 24, 2026 | `main` | [`cognitive-load`](https://github.com/Code-Crew-Nexus/cognitive-load) |
+| **Paws Connect Hub** | WT | HTML, Java, Shell | Java Servlet + JSP web application with MySQL backend. Features user login, marketplace, community posts, and admin oversight. | Apr 21, 2026 | `main` | [`PawsConnectHub`](https://github.com/Code-Crew-Nexus/PawsConnectHub) |
+| **Pawsconnect** | TBD | HTML | PawsConnect is a modern platform designed to bring together animal lovers, responsible sellers, and caring buyers in one safe, engaging community. | Apr 11, 2026 | `main` | [`pawsconnect`](https://github.com/Code-Crew-Nexus/pawsconnect) |
 | **Binary Tic Tac Toe Game** | CAALP | Assembly | A text-based Tic Tac Toe game implemented in x86 Assembly using MASM, running in DOSBox. | Apr 08, 2026 | `main` | [`binary-tic-tac-toe-game`](https://github.com/Code-Crew-Nexus/binary-tic-tac-toe-game) |
 | **Smart Memory Manager** | OS | C | Smart Memory Manager is a PBL OS project simulating FIFO, LRU, and Optimal page replacement with a browser tab analogy. Built in modular C, it runs cross‑platform, showing tab openings, evictions, and efficiency metrics with reproducible Makefile support. | Apr 08, 2026 | `main` | [`smart-memory-manager`](https://github.com/Code-Crew-Nexus/smart-memory-manager) |
 | **Articulation Point Analysis** | DAA | Java | Design and Analysis of Algorithms (DAA) – Articulation Point Analysis (PBL). A Java CLI project to study network reliability using Tarjan‑style DFS articulation point detection, CSV input, scale‑free graph generation, and optional HTML visualization for interactive analysis. | Apr 06, 2026 | `main` | [`articulation-point-analysis`](https://github.com/Code-Crew-Nexus/articulation-point-analysis) |
@@ -124,26 +126,50 @@ Every project added here should strengthen the story of a team that builds with 
 <table>
 <tr>
 <td width="50%" valign="top">
-<strong><a href="https://github.com/Code-Crew-Nexus/PawsConnectHub/commit/c1fb342c88e7950d76f77b9207461d8ddee54c0b">Add MIT License to the project</a></strong><br />
-<sub>Apr 19, 2026 · 11:37 AM IST</sub>
-
-<br /><br />
-
-<strong>Repository:</strong> <a href="https://github.com/Code-Crew-Nexus/PawsConnectHub">PawsConnectHub</a><br />
-<strong>Committed by:</strong> rajghosh06-dev<br />
-<strong>Branch:</strong> <code>main</code><br />
-<strong>Commit:</strong> <code>c1fb342</code>
-</td>
-<td width="50%" valign="top">
-<strong><a href="https://github.com/Code-Crew-Nexus/online-shopping-website/commit/85a63a8300955f2bf13d0ceb956e5be67f93eee8">Update README.md</a></strong><br />
-<sub>Apr 17, 2026 · 10:03 PM IST</sub>
+<strong><a href="https://github.com/Code-Crew-Nexus/online-shopping-website/commit/23d42b397bfb4774561ca969d4e0ad6cc448372f">Update contributor name</a></strong><br />
+<sub>Jun 25, 2026 · 10:36 PM IST</sub>
 
 <br /><br />
 
 <strong>Repository:</strong> <a href="https://github.com/Code-Crew-Nexus/online-shopping-website">online-shopping-website</a><br />
-<strong>Committed by:</strong> metrinaveen08<br />
+<strong>Committed by:</strong> Saikrishna-dev-oss<br />
 <strong>Branch:</strong> <code>main</code><br />
-<strong>Commit:</strong> <code>85a63a8</code>
+<strong>Commit:</strong> <code>23d42b3</code>
+</td>
+<td width="50%" valign="top">
+<strong><a href="https://github.com/Code-Crew-Nexus/cognitive-load/commit/1a3f13ce476cd04d1d090d419d10937f63a1a1df">update: updated README.md</a></strong><br />
+<sub>Apr 24, 2026 · 09:29 PM IST</sub>
+
+<br /><br />
+
+<strong>Repository:</strong> <a href="https://github.com/Code-Crew-Nexus/cognitive-load">cognitive-load</a><br />
+<strong>Committed by:</strong> karthik10-dev<br />
+<strong>Branch:</strong> <code>main</code><br />
+<strong>Commit:</strong> <code>1a3f13c</code>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<strong><a href="https://github.com/Code-Crew-Nexus/PawsConnectHub/commit/4c892b79a27b2fdda79d404475e4904b8d3ac8a2">Finalised model</a></strong><br />
+<sub>Apr 21, 2026 · 05:00 PM IST</sub>
+
+<br /><br />
+
+<strong>Repository:</strong> <a href="https://github.com/Code-Crew-Nexus/PawsConnectHub">PawsConnectHub</a><br />
+<strong>Committed by:</strong> Starcloud-retro<br />
+<strong>Branch:</strong> <code>main</code><br />
+<strong>Commit:</strong> <code>4c892b7</code>
+</td>
+<td width="50%" valign="top">
+<strong><a href="https://github.com/Code-Crew-Nexus/pawsconnect/commit/df520c6e56129e28d49bab76c83c65396efc9e2c">tried new LOGIN</a></strong><br />
+<sub>Apr 11, 2026 · 01:09 AM IST</sub>
+
+<br /><br />
+
+<strong>Repository:</strong> <a href="https://github.com/Code-Crew-Nexus/pawsconnect">pawsconnect</a><br />
+<strong>Committed by:</strong> Starcloud-retro<br />
+<strong>Branch:</strong> <code>main</code><br />
+<strong>Commit:</strong> <code>df520c6</code>
 </td>
 </tr>
 <tr>
@@ -168,30 +194,6 @@ Every project added here should strengthen the story of a team that builds with 
 <strong>Committed by:</strong> rajghosh06-dev<br />
 <strong>Branch:</strong> <code>main</code><br />
 <strong>Commit:</strong> <code>56b9471</code>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<strong><a href="https://github.com/Code-Crew-Nexus/articulation-point-analysis/commit/a1b7cad6f87e779780c011ec5da1901c37e51fb4">Major Changes: Updated the README.md for it&#x27;s best info.</a></strong><br />
-<sub>Apr 06, 2026 · 12:17 AM IST</sub>
-
-<br /><br />
-
-<strong>Repository:</strong> <a href="https://github.com/Code-Crew-Nexus/articulation-point-analysis">articulation-point-analysis</a><br />
-<strong>Committed by:</strong> rajghosh06-dev<br />
-<strong>Branch:</strong> <code>main</code><br />
-<strong>Commit:</strong> <code>a1b7cad</code>
-</td>
-<td width="50%" valign="top">
-<strong><a href="https://github.com/Code-Crew-Nexus/page-replacement-algorithms-analysis/commit/7ae6582ad1bb879cd5646b867c5921ad59a930bc">Minor Change: Made major updates to all the errornous lines within README.md .</a></strong><br />
-<sub>Apr 05, 2026 · 08:41 PM IST</sub>
-
-<br /><br />
-
-<strong>Repository:</strong> <a href="https://github.com/Code-Crew-Nexus/page-replacement-algorithms-analysis">page-replacement-algorithms-analysis</a><br />
-<strong>Committed by:</strong> rajghosh06-dev<br />
-<strong>Branch:</strong> <code>main</code><br />
-<strong>Commit:</strong> <code>7ae6582</code>
 </td>
 </tr>
 </table>
@@ -231,39 +233,43 @@ This section is generated from the organization's current public repositories wh
 <table>
 <tr>
 <td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="64" height="64" /><br />
-<strong>HTML</strong>
-</td>
-<td align="center" width="20%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="64" height="64" /><br />
 <strong>Java</strong>
 </td>
 <td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Shell" width="64" height="64" /><br />
-<strong>Shell</strong>
-</td>
-<td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" alt="Batchfile" width="64" height="64" /><br />
-<strong>Batchfile</strong>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="64" height="64" /><br />
+<strong>CSS</strong>
 </td>
 <td align="center" width="20%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="64" height="64" /><br />
 <strong>JavaScript</strong>
+</td>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="64" height="64" /><br />
+<strong>Python</strong>
+</td>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="64" height="64" /><br />
+<strong>HTML</strong>
 </td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="64" height="64" /><br />
-<strong>CSS</strong>
+<td align="center" width="25%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Shell" width="64" height="64" /><br />
+<strong>Shell</strong>
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" alt="Batchfile" width="64" height="64" /><br />
+<strong>Batchfile</strong>
+</td>
+<td align="center" width="25%">
 <img src="https://img.shields.io/badge/ASM-111827?style=for-the-badge&logo=gnuassembler&logoColor=white" alt="Assembly" width="64" height="64" /><br />
 <strong>Assembly</strong>
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C" width="64" height="64" /><br />
 <strong>C</strong>
 </td>
