@@ -28,7 +28,7 @@
 
 <br />
 
-<img src="https://img.shields.io/badge/Last%20Updated-Sep%2001%2C%202026-111827?style=for-the-badge" alt="Last Updated" />
+<img src="https://img.shields.io/badge/Last%20Updated-Oct%2001%2C%202026-111827?style=for-the-badge" alt="Last Updated" />
 
 <br />
 
@@ -107,6 +107,7 @@ Every project added here should strengthen the story of a team that builds with 
 
 | PROJECT | SUBJECT | STACK | DESCRIPTION | LAST UPDATE | BRANCHES | REPOSITORY |
 | --- | --- | --- | --- | --- | --- | --- |
+| **Urbanairqualityindex Pollutantdriftanalysis** | AI | R, Python, PowerShell | Statistics for Machine Learning PBL — Urban AQI, pollutant drift, statistical inference and next-day prediction using R. | Oct 01, 2026 | `main`<br />`main-stable` | [`UrbanAirQualityIndex-PollutantDriftAnalysis`](https://github.com/Code-Crew-Nexus/UrbanAirQualityIndex-PollutantDriftAnalysis) |
 | **Online Shopping Website** | WT | Java, CSS | A Java-based e-commerce web app with user login, product catalog, cart, and checkout using MySQL. | Jun 25, 2026 | `main`<br />`ui`<br />`upgrade/FlipZon-shopping` | [`online-shopping-website`](https://github.com/Code-Crew-Nexus/online-shopping-website) |
 | **Cognitive Load** | TBD | JavaScript, Python, CSS | Cognitive Load is an educational project. | Apr 24, 2026 | `main` | [`cognitive-load`](https://github.com/Code-Crew-Nexus/cognitive-load) |
 | **Paws Connect Hub** | WT | HTML, Java, Shell | Java Servlet + JSP web application with MySQL backend. Features user login, marketplace, community posts, and admin oversight. | Apr 21, 2026 | `main` | [`PawsConnectHub`](https://github.com/Code-Crew-Nexus/PawsConnectHub) |
@@ -126,6 +127,17 @@ Every project added here should strengthen the story of a team that builds with 
 <table>
 <tr>
 <td width="50%" valign="top">
+<strong><a href="https://github.com/Code-Crew-Nexus/UrbanAirQualityIndex-PollutantDriftAnalysis/commit/f4cdb51df14f4102085deecbf006a2408d97a28d">chore(hygiene): minimize tracked historical artifacts, legacy tests, and QA screenshots</a></strong><br />
+<sub>Oct 01, 2026 · 01:29 AM IST</sub>
+
+<br /><br />
+
+<strong>Repository:</strong> <a href="https://github.com/Code-Crew-Nexus/UrbanAirQualityIndex-PollutantDriftAnalysis">UrbanAirQualityIndex-PollutantDriftAnalysis</a><br />
+<strong>Committed by:</strong> rajghosh06-dev<br />
+<strong>Branch:</strong> <code>main</code><br />
+<strong>Commit:</strong> <code>f4cdb51</code>
+</td>
+<td width="50%" valign="top">
 <strong><a href="https://github.com/Code-Crew-Nexus/online-shopping-website/commit/23d42b397bfb4774561ca969d4e0ad6cc448372f">Update contributor name</a></strong><br />
 <sub>Jun 25, 2026 · 10:36 PM IST</sub>
 
@@ -136,6 +148,8 @@ Every project added here should strengthen the story of a team that builds with 
 <strong>Branch:</strong> <code>main</code><br />
 <strong>Commit:</strong> <code>23d42b3</code>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <strong><a href="https://github.com/Code-Crew-Nexus/cognitive-load/commit/1a3f13ce476cd04d1d090d419d10937f63a1a1df">update: updated README.md</a></strong><br />
 <sub>Apr 24, 2026 · 09:29 PM IST</sub>
@@ -147,8 +161,6 @@ Every project added here should strengthen the story of a team that builds with 
 <strong>Branch:</strong> <code>main</code><br />
 <strong>Commit:</strong> <code>1a3f13c</code>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <strong><a href="https://github.com/Code-Crew-Nexus/PawsConnectHub/commit/4c892b79a27b2fdda79d404475e4904b8d3ac8a2">Finalised model</a></strong><br />
 <sub>Apr 21, 2026 · 05:00 PM IST</sub>
@@ -160,6 +172,8 @@ Every project added here should strengthen the story of a team that builds with 
 <strong>Branch:</strong> <code>main</code><br />
 <strong>Commit:</strong> <code>4c892b7</code>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <strong><a href="https://github.com/Code-Crew-Nexus/pawsconnect/commit/df520c6e56129e28d49bab76c83c65396efc9e2c">tried new LOGIN</a></strong><br />
 <sub>Apr 11, 2026 · 01:09 AM IST</sub>
@@ -171,8 +185,6 @@ Every project added here should strengthen the story of a team that builds with 
 <strong>Branch:</strong> <code>main</code><br />
 <strong>Commit:</strong> <code>df520c6</code>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <strong><a href="https://github.com/Code-Crew-Nexus/binary-tic-tac-toe-game/commit/c9f603899c39c1226506c781a51206e0a884d1b0">Updated WINCHECK.ASM; and BTICTACT.EXE. Also updated the final .exe file. Moves into desired location.</a></strong><br />
 <sub>Apr 08, 2026 · 07:46 PM IST</sub>
@@ -183,17 +195,6 @@ Every project added here should strengthen the story of a team that builds with 
 <strong>Committed by:</strong> rajghosh06-dev<br />
 <strong>Branch:</strong> <code>main</code><br />
 <strong>Commit:</strong> <code>c9f6038</code>
-</td>
-<td width="50%" valign="top">
-<strong><a href="https://github.com/Code-Crew-Nexus/smart-memory-manager/commit/56b947156fd493f380592f9304350e23f97b2c0e">Updated README.md. Also includede the final .exe file.</a></strong><br />
-<sub>Apr 08, 2026 · 12:41 PM IST</sub>
-
-<br /><br />
-
-<strong>Repository:</strong> <a href="https://github.com/Code-Crew-Nexus/smart-memory-manager">smart-memory-manager</a><br />
-<strong>Committed by:</strong> rajghosh06-dev<br />
-<strong>Branch:</strong> <code>main</code><br />
-<strong>Commit:</strong> <code>56b9471</code>
 </td>
 </tr>
 </table>
@@ -233,6 +234,18 @@ This section is generated from the organization's current public repositories wh
 <table>
 <tr>
 <td align="center" width="20%">
+<img src="https://img.shields.io/badge/R-Stack-111827?style=for-the-badge&logo=github&logoColor=white" alt="R" width="64" height="64" /><br />
+<strong>R</strong>
+</td>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="64" height="64" /><br />
+<strong>Python</strong>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/PowerShell-Stack-111827?style=for-the-badge&logo=github&logoColor=white" alt="PowerShell" width="64" height="64" /><br />
+<strong>PowerShell</strong>
+</td>
+<td align="center" width="20%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="64" height="64" /><br />
 <strong>Java</strong>
 </td>
@@ -240,38 +253,30 @@ This section is generated from the organization's current public repositories wh
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="64" height="64" /><br />
 <strong>CSS</strong>
 </td>
-<td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="64" height="64" /><br />
-<strong>JavaScript</strong>
-</td>
-<td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="64" height="64" /><br />
-<strong>Python</strong>
-</td>
-<td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="64" height="64" /><br />
-<strong>HTML</strong>
-</td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="64" height="64" /><br />
+<strong>JavaScript</strong>
+</td>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="64" height="64" /><br />
+<strong>HTML</strong>
+</td>
+<td align="center" width="20%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Shell" width="64" height="64" /><br />
 <strong>Shell</strong>
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" alt="Batchfile" width="64" height="64" /><br />
 <strong>Batchfile</strong>
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 <img src="https://img.shields.io/badge/ASM-111827?style=for-the-badge&logo=gnuassembler&logoColor=white" alt="Assembly" width="64" height="64" /><br />
 <strong>Assembly</strong>
-</td>
-<td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C" width="64" height="64" /><br />
-<strong>C</strong>
 </td>
 </tr>
 </table>
